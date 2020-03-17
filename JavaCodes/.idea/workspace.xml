@@ -85,10 +85,10 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DataTypes" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ScannerClass" />
       <item itemvalue="Application.StringClass" />
-      <item itemvalue="Application.DataTypes" />
     </list>
     <recent_temporary>
       <list>
