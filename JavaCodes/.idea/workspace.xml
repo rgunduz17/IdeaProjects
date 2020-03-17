@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ForLoops.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.ForLoops">
+  <component name="RunManager" selected="Application.Test2">
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.DataTypes" />
       <module name="JavaCodes" />
@@ -63,29 +64,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="JavaCodes" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScannerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ScannerClass" />
-      <module name="JavaCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.StringClass" />
       <module name="JavaCodes" />
@@ -99,20 +77,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Test2" />
+      <module name="JavaCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.TestTest" />
+      <module name="JavaCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.DataTypes" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ScannerClass" />
       <item itemvalue="Application.StringClass" />
       <item itemvalue="Application.ForLoops" />
+      <item itemvalue="Application.TestTest" />
+      <item itemvalue="Application.Test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.TestTest" />
         <item itemvalue="Application.ForLoops" />
         <item itemvalue="Application.DataTypes" />
         <item itemvalue="Application.StringClass" />
-        <item itemvalue="Application.ScannerClass" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -134,26 +138,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="571" y="149" key="#ScannerClass/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584383724055" />
-    <state width="1211" height="291" key="GridCell.Tab.0.bottom" timestamp="1584461744011">
+    <state width="1478" height="291" key="GridCell.Tab.0.bottom" timestamp="1584468598182">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331316" />
-    <state width="1211" height="291" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584461744011" />
-    <state width="1211" height="291" key="GridCell.Tab.0.center" timestamp="1584461744011">
+    <state width="1478" height="291" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584468598182" />
+    <state width="1478" height="291" key="GridCell.Tab.0.center" timestamp="1584468598182">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331314" />
-    <state width="1211" height="291" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584461744011" />
-    <state width="1211" height="291" key="GridCell.Tab.0.left" timestamp="1584461744010">
+    <state width="1478" height="291" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584468598182" />
+    <state width="1478" height="291" key="GridCell.Tab.0.left" timestamp="1584468598180">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331313" />
-    <state width="1211" height="291" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584461744010" />
-    <state width="1211" height="291" key="GridCell.Tab.0.right" timestamp="1584461744011">
+    <state width="1478" height="291" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584468598180" />
+    <state width="1478" height="291" key="GridCell.Tab.0.right" timestamp="1584468598182">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331315" />
-    <state width="1211" height="291" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584461744011" />
+    <state width="1478" height="291" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584468598182" />
     <state width="1211" height="311" key="GridCell.Tab.1.bottom" timestamp="1584419632446">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
