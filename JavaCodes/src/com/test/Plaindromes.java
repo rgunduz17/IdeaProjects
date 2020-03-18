@@ -9,9 +9,16 @@ public class Plaindromes {
             String original= "level";
             String reversed = "";
 
-            for(int i=original.length()-1;  i >= 0; i--) {
+//            for(int i=original.length()-1;  i >= 0; i--) {
+//
+//                reversed += original.substring(i, i+1);
+//            }
 
+                int i=original.length()-1;
+
+            while (i >= 0) {
                 reversed += original.substring(i, i+1);
+                i--;
             }
 
            // boolean result = original.equals(reversed) ? true : false ;
@@ -19,6 +26,7 @@ public class Plaindromes {
                 boolean result = original.equals(reversed);
 
                 System.out.println(result);
+
                 System.out.println(reversed);
 
     }
