@@ -1,6 +1,6 @@
 package com.test;
 import java.util.Scanner;
-public class Test2 {
+public class isPrime {
 
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);

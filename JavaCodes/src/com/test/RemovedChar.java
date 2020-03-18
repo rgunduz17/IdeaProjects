@@ -4,7 +4,7 @@ package com.test;
 
 import java.util.Scanner;
 
-public class Test3 {
+public class RemovedChar {
     public static void main(String[] args) {
 
 

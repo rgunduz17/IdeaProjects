@@ -2,7 +2,7 @@ package com.test;
 
 import java.util.Scanner;
 
-public class TestTest {
+public class SeperateLine {
 
     public static void main(String[] args) {
 
