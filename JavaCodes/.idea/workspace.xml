@@ -26,6 +26,7 @@
   </component>
   <component name="ProjectId" id="1ZDV8nouVjQb5NrZncdTTwKSd5N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -144,34 +145,34 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="1143" y="23" width="777" height="976" key="#Test5/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584529926700" />
-    <state width="1868" height="208" key="GridCell.Tab.0.bottom" timestamp="1584536854686">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1868" height="208" key="GridCell.Tab.0.bottom" timestamp="1584537138806">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331316" />
-    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584536854686" />
+    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584536872566" />
     <state width="1299" height="321" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772195" />
-    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584536469641" />
-    <state width="1868" height="208" key="GridCell.Tab.0.center" timestamp="1584536854684">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584537138806" />
+    <state width="1868" height="208" key="GridCell.Tab.0.center" timestamp="1584537138805">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331314" />
-    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584536854684" />
+    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584536872561" />
     <state width="1299" height="321" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584536469640" />
-    <state width="1868" height="208" key="GridCell.Tab.0.left" timestamp="1584536854683">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584537138805" />
+    <state width="1868" height="208" key="GridCell.Tab.0.left" timestamp="1584537138805">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331313" />
-    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584536854683" />
+    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584536872559" />
     <state width="1299" height="321" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772193" />
-    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584536469638" />
-    <state width="1868" height="208" key="GridCell.Tab.0.right" timestamp="1584536854685">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584537138805" />
+    <state width="1868" height="208" key="GridCell.Tab.0.right" timestamp="1584537138806">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331315" />
-    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584536854685" />
+    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584536872565" />
     <state width="1299" height="321" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584536469641" />
+    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584537138806" />
     <state width="1211" height="311" key="GridCell.Tab.1.bottom" timestamp="1584419632446">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -197,14 +198,15 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="0" y="23" width="1263" height="976" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584532189249" />
-    <state x="696" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584533821834">
+    <state x="696" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584537377047">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="696" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584533821834" />
-    <state x="541" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1584376435251">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="696" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584537377047" />
+    <state x="541" y="66" width="838" height="934" key="search.everywhere.popup" timestamp="1584537161192">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="541" y="48" width="838" height="1032" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584376435251" />
+    <state x="541" y="66" width="838" height="934" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584537161192" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaCodes$NestedLoopTest.ic" NAME="NestedLoopTest Coverage Results" MODIFIED="1584536418284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

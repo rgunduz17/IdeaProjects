@@ -15,21 +15,21 @@ public class NestedLoopTest {
 
            System.out.println("Addition is : " + (a+b));
            System.out.println("Do you want to continue ?");
-           scan.nextInt();
-           String answer = scan.next();
+           scan.nextLine();
+           String answer = scan.nextLine().toLowerCase();
 
 
            while (!(answer.equals("yes") || answer.equals("no"))) {
 
                System.out.println("Invalid Entry please re-enter");
                System.out.println("Do you want to continue ?");
-               answer = scan.next();
+               answer = scan.nextLine();
            }
            if(answer.equals("no") ) {
                 break;
             }
        }
-
+        
 
 
     }
