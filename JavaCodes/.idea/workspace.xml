@@ -22,7 +22,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZDV8nouVjQb5NrZncdTTwKSd5N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -38,7 +37,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.ArrayTest">
     <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -145,34 +144,34 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="1143" y="23" width="777" height="976" key="#Test5/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584529926700" />
-    <state width="1868" height="208" key="GridCell.Tab.0.bottom" timestamp="1584557910257">
+    <state width="1868" height="208" key="GridCell.Tab.0.bottom" timestamp="1584558305920">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331316" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584550058588" />
     <state width="1299" height="321" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772195" />
-    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584557910257" />
-    <state width="1868" height="208" key="GridCell.Tab.0.center" timestamp="1584557910254">
+    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558305920" />
+    <state width="1868" height="208" key="GridCell.Tab.0.center" timestamp="1584558305919">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331314" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584550058584" />
     <state width="1299" height="321" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584557910254" />
-    <state width="1868" height="208" key="GridCell.Tab.0.left" timestamp="1584557910252">
+    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558305919" />
+    <state width="1868" height="208" key="GridCell.Tab.0.left" timestamp="1584558305918">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331313" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584550058583" />
     <state width="1299" height="321" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772193" />
-    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584557910252" />
-    <state width="1868" height="208" key="GridCell.Tab.0.right" timestamp="1584557910255">
+    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558305918" />
+    <state width="1868" height="208" key="GridCell.Tab.0.right" timestamp="1584558305919">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331315" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584550058584" />
     <state width="1299" height="321" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584557910255" />
+    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558305919" />
     <state width="1211" height="311" key="GridCell.Tab.1.bottom" timestamp="1584419632446">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -189,11 +188,11 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1211" height="311" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584419632445" />
-    <state x="1111" y="23" width="809" height="976" key="SettingsEditor" timestamp="1584530978314">
+    <state x="795" y="23" width="1125" height="976" key="SettingsEditor" timestamp="1584558653292">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="320" y="19" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584373800418" />
-    <state x="1111" y="23" width="809" height="976" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584530978314" />
+    <state x="795" y="23" width="1125" height="976" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558653292" />
     <state x="0" y="23" width="1263" height="976" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584532189249">
       <screen x="0" y="23" width="1920" height="977" />
     </state>

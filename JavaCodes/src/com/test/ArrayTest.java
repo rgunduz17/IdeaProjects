@@ -50,6 +50,14 @@ public class ArrayTest {
         }
         System.out.println("min is : "+min);
 
+        int secondmin=9999999;
+        for(int j =0; j < myArray.length; j++) {
+
+            if(myArray[j] < secondmin && myArray[j] > min ) {
+                secondmin = myArray[j];
+            }
+        }
+        System.out.println("secondmin is : "+secondmin);
 
 
 
