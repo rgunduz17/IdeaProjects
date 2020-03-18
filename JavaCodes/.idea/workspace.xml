@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacodes/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/test/NestedLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/NestedLoopTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
