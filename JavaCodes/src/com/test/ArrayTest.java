@@ -24,23 +24,31 @@ public class ArrayTest {
         array[2] = 300;
         array[3] = 400;
 
-        Scanner scan = new Scanner(System.in);
+//        Scanner scan = new Scanner(System.in);
+//
+//        int []  Inputs = new int [5];
+//
+//        for(int i =0; i < Inputs.length; i++) {
+//            System.out.println("Enter a number: ");
+//            Inputs [i] = scan.nextInt();
+//        }
+//
+//        for(int i =0; i < Inputs.length; i++) {
+//            System.out.print(Inputs [i] + " ");
+//
+//        }
+//          min from array
 
-        int []  Inputs = new int [5];
+        int [] myArray = {1,2,3,4,5,6,7,8,9};
 
-        for(int i =0; i < Inputs.length; i++) {
-            System.out.println("Enter a number: ");
-            Inputs [i] = scan.nextInt();
+        int min=9999999;
+        for(int i =0; i < myArray.length; i++) {
+
+            if(myArray[i] < min) {
+                min = myArray[i];
+            }
         }
-
-        for(int i =0; i < Inputs.length; i++) {
-            System.out.print(Inputs [i] + " ");
-
-        }
-
-       
-
-
+        System.out.println("min is : "+min);
 
 
 
