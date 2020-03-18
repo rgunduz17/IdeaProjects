@@ -32,16 +32,40 @@ public class NestedLoop {
         }
         System.out.println("\n\n");
 
-        for(int i=0; i<=7; i++){
+        for(int i=1; i<=10; i++){
+
+
+            for (int j=1; j<i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+        System.out.println("\n\n");
+
+
+        int i=1;
+        while( i<=10 ){
 
 
             for (int j=0; j<i; j++) {
                 System.out.print("*");
             }
             System.out.println();
+            i++;
         }
 
+        System.out.println("\n\n");
 
+
+//        int i=1;
+//        do{
+//            for (int j=1; j<i; j++) {
+//                System.out.print("*");
+//            }
+//            System.out.println();
+//            i++;
+//        }while( i<=10 );
 
 
     }
