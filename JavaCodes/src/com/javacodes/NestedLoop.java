@@ -6,19 +6,43 @@ public class NestedLoop {
 
 //        Nested loop: loop inside a loop
 
-//              for () {
-//            for  (){
-//
+//            for () {
+//                  for  (){
 //            }
 //        }
-        for (int z=0; z < 5; z++) {
+        for (int z=0; z <= 5; z++) {
             for (int i = 1; i <= 5; i++) {
 
-                System.out.println(i);
+                System.out.print(i);
 
             }
             System.out.println();
         }
+
+        int z=1;
+        while(z <= 5) {
+            int i = 1;
+            while (i <= 5) {
+                System.out.print("*");
+                i++;
+            }
+            System.out.println();
+
+            z++;
+        }
+        System.out.println("\n\n");
+
+        for(int i=0; i<=7; i++){
+
+
+            for (int j=0; j<i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+
+
 
     }
 }
