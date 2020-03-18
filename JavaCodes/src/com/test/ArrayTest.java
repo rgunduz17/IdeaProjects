@@ -37,6 +37,8 @@ public class ArrayTest {
 //            System.out.print(Inputs [i] + " ");
 //
 //        }
+
+
 //          min from array
 
         int [] myArray = {1,2,3,4,5,6,7,8,9};

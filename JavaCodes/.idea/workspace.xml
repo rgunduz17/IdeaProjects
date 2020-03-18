@@ -39,7 +39,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.ArrayTest">
+  <component name="RunManager" selected="Application.ScannerTest">
     <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.ArrayTest" />
       <module name="JavaCodes" />
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javacodes.NestedLoop" />
+    <configuration name="NestedLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.NestedLoopTest" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javacodes.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.NestedLoopTest" />
+    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.ScannerTest" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
@@ -106,19 +106,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NestedLoop" />
       <item itemvalue="Application.NestedLoopTest" />
       <item itemvalue="Application.UniqueChar" />
       <item itemvalue="Application.Arrays" />
       <item itemvalue="Application.ArrayTest" />
+      <item itemvalue="Application.ScannerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerTest" />
         <item itemvalue="Application.ArrayTest" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.UniqueChar" />
         <item itemvalue="Application.NestedLoopTest" />
-        <item itemvalue="Application.NestedLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -144,34 +144,34 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="1143" y="23" width="777" height="976" key="#Test5/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584529926700" />
-    <state width="1868" height="208" key="GridCell.Tab.0.bottom" timestamp="1584558305920">
+    <state width="1868" height="208" key="GridCell.Tab.0.bottom" timestamp="1584562801981">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331316" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584550058588" />
     <state width="1299" height="321" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772195" />
-    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558305920" />
-    <state width="1868" height="208" key="GridCell.Tab.0.center" timestamp="1584558305919">
+    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584562801981" />
+    <state width="1868" height="208" key="GridCell.Tab.0.center" timestamp="1584562801980">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331314" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584550058584" />
     <state width="1299" height="321" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558305919" />
-    <state width="1868" height="208" key="GridCell.Tab.0.left" timestamp="1584558305918">
+    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584562801980" />
+    <state width="1868" height="208" key="GridCell.Tab.0.left" timestamp="1584562801980">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331313" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584550058583" />
     <state width="1299" height="321" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772193" />
-    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558305918" />
-    <state width="1868" height="208" key="GridCell.Tab.0.right" timestamp="1584558305919">
+    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584562801980" />
+    <state width="1868" height="208" key="GridCell.Tab.0.right" timestamp="1584562801981">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331315" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584550058584" />
     <state width="1299" height="321" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558305919" />
+    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584562801981" />
     <state width="1211" height="311" key="GridCell.Tab.1.bottom" timestamp="1584419632446">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -193,6 +193,10 @@
     </state>
     <state x="320" y="19" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584373800418" />
     <state x="795" y="23" width="1125" height="976" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584558653292" />
+    <state x="459" y="188" key="Vcs.Push.Dialog.v2" timestamp="1584559018814">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="459" y="188" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584559018814" />
     <state x="0" y="23" width="1263" height="976" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584532189249">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
