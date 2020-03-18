@@ -1,4 +1,4 @@
-package com.company;
+package com.javacodes;
 import java.util.Scanner;
 public class ScannerClass {
     public static void main(String[] args) {

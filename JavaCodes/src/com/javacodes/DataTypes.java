@@ -1,4 +1,4 @@
-package com.company;
+package com.javacodes;
 
 public class DataTypes {
 
