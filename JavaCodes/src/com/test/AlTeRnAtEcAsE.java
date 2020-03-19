@@ -2,7 +2,7 @@ package com.test;
 
 import java.util.Scanner;
 
-public class CaMeLcAse {
+public class AlTeRnAtEcAsE {
 
     public static void main(String[] args) {
 

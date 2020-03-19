@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javacodes/ArraysMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/CaMeLcAse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/ReversedString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacodes/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/CaMeLcAse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/AlTeRnAtEcAsE.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,20 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.CaMeLcAse">
+  <component name="RunManager" selected="Application.AlTeRnAtEcAsE">
+    <configuration name="AlTeRnAtEcAsE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.AlTeRnAtEcAsE" />
+      <module name="JavaCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.ArrayTest" />
       <module name="JavaCodes" />
@@ -63,19 +72,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javacodes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CaMeLcAse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.CaMeLcAse" />
-      <module name="JavaCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +110,11 @@
       <item itemvalue="Application.ArrayTest" />
       <item itemvalue="Application.ScannerTest" />
       <item itemvalue="Application.ReversedString" />
-      <item itemvalue="Application.CaMeLcAse" />
+      <item itemvalue="Application.AlTeRnAtEcAsE" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CaMeLcAse" />
+        <item itemvalue="Application.AlTeRnAtEcAsE" />
         <item itemvalue="Application.ReversedString" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.ScannerTest" />
