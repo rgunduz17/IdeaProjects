@@ -35,7 +35,7 @@ public class Practice_2DArray {
 //                System.out.print(arr2D[j][i] + " ");
 //            }
 
-        
+
 
 
 
