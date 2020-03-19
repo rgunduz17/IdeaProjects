@@ -1,6 +1,6 @@
 package com.javacodes;
 
-public class Arrays {
+public class ArraysClass {
 
     public static void main(String[] args) {
 
