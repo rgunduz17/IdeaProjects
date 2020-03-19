@@ -43,6 +43,14 @@ public class ArraysMethods {
 
         System.out.println("min is: " + Numbers[0]);
 
+        // print descending order
+
+        for (int i = Numbers.length -1; i >=0; i--) {
+            System.out.print(  Numbers [i] + " ");
+
+        }
+
+        System.out.println();
 
 
         String [] NameLists = {"Bli", "Zeli", "Deli","Aeve"};
@@ -50,6 +58,39 @@ public class ArraysMethods {
         Arrays.sort(NameLists);
 
         System.out.println(Arrays.toString(NameLists));
+
+//      split (str)
+
+        String sentence = "Today is great day Good day to learn Java";
+
+        String [] arr1 = sentence.split(" ");
+
+        System.out.println(Arrays.toString(arr1));
+        System.out.println(arr1.length);
+
+        String email = "FirstName_LastName";
+         String [] arr2 = email.split("_");
+
+        System.out.println(Arrays.toString(arr2));
+
+        String str2 = Arrays.toString(arr2);
+        System.out.println(str2.replace("[","").replace("]", ""));
+
+//      toCharArray()
+
+        String str5= "Java";
+
+        char [] ch = str5.toCharArray();
+
+        System.out.println(Arrays.toString(ch));
+
+        // Second way
+
+        String [] allChars = str5.split("");
+        System.out.println(Arrays.toString(allChars));
+
+
+
 
 
 
