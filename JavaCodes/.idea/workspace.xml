@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/InterviewQuestions/StringEqualByArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacodes/ForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/test/CountDownTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/test/SkipOddOrEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/Practice_2DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/com/test/Practice_2DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Practice_2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/test/Practice_2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/CountDownTimer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/CountDownTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/com/test/CountDownTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/CountDownTimer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,19 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.CountDownTimer">
+    <configuration name="ArraysMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javacodes.ArraysMethods" />
+      <module name="JavaCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javacodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountDownTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.CountDownTimer" />
       <module name="JavaCodes" />
@@ -70,19 +82,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice_2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.Practice_2DArray" />
-      <module name="JavaCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Scheduler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.test.Scheduler" />
       <module name="JavaCodes" />
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEqualByArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.InterviewQuestions.StringEqualByArrays" />
+    <configuration name="SkipOddOrEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.SkipOddOrEven" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.InterviewQuestions.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,19 +109,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Practice_2DArray" />
-      <item itemvalue="Application.StringEqualByArrays" />
       <item itemvalue="Application.ForEachLoop" />
       <item itemvalue="Application.CountDownTimer" />
       <item itemvalue="Application.Scheduler" />
+      <item itemvalue="Application.ArraysMethods" />
+      <item itemvalue="Application.SkipOddOrEven" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.CountDownTimer" />
+        <item itemvalue="Application.SkipOddOrEven" />
+        <item itemvalue="Application.ArraysMethods" />
         <item itemvalue="Application.Scheduler" />
         <item itemvalue="Application.ForEachLoop" />
-        <item itemvalue="Application.StringEqualByArrays" />
-        <item itemvalue="Application.Practice_2DArray" />
       </list>
     </recent_temporary>
   </component>
@@ -148,38 +147,38 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="1143" y="23" width="777" height="976" key="#Test5/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584529926700" />
-    <state width="1868" height="208" key="GridCell.Tab.0.bottom" timestamp="1584657345032">
+    <state width="1868" height="208" key="GridCell.Tab.0.bottom" timestamp="1584660044087">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331316" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584656285665" />
     <state width="1299" height="321" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772195" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584654883395" />
-    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584657345032" />
-    <state width="1868" height="208" key="GridCell.Tab.0.center" timestamp="1584657345031">
+    <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584660044087" />
+    <state width="1868" height="208" key="GridCell.Tab.0.center" timestamp="1584660044086">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331314" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584656285663" />
     <state width="1299" height="321" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584654883394" />
-    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584657345031" />
-    <state width="1868" height="208" key="GridCell.Tab.0.left" timestamp="1584657345031">
+    <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584660044086" />
+    <state width="1868" height="208" key="GridCell.Tab.0.left" timestamp="1584660044085">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331313" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584656285662" />
     <state width="1299" height="321" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772193" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584654883394" />
-    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584657345031" />
-    <state width="1868" height="208" key="GridCell.Tab.0.right" timestamp="1584657345031">
+    <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584660044085" />
+    <state width="1868" height="208" key="GridCell.Tab.0.right" timestamp="1584660044086">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="291" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584378331315" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584656285663" />
     <state width="1299" height="321" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584654883395" />
-    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584657345031" />
+    <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584660044086" />
     <state width="1211" height="311" key="GridCell.Tab.1.bottom" timestamp="1584419632446">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
