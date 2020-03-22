@@ -33,6 +33,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -106,11 +107,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UniqueValue" />
-      <item itemvalue="Application.WrapperClass" />
       <item itemvalue="Application.ArrayListClass" />
       <item itemvalue="Application.CoffeeOrTea" />
       <item itemvalue="Application.MustafaAbi" />
+      <item itemvalue="Application.UniqueValue" />
+      <item itemvalue="Application.WrapperClass" />
     </list>
     <recent_temporary>
       <list>
