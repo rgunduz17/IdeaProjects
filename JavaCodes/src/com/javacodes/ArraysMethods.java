@@ -1,6 +1,6 @@
 package com.javacodes;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
 
 import java.util.Arrays;
 
@@ -59,7 +59,7 @@ public class ArraysMethods {
 
         System.out.println(Arrays.toString(NameLists));
 
-//      split (str)
+//      3.  split (str)
 
         String sentence = "Today is great day Good day to learn Java";
 
@@ -76,7 +76,7 @@ public class ArraysMethods {
         String str2 = Arrays.toString(arr2);
         System.out.println(str2.replace("[","").replace("]", ""));
 
-//      toCharArray()
+//     4. toCharArray()
 
         String str5= "Java";
 
