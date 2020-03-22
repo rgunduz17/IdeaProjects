@@ -1,6 +1,8 @@
 package com.javacodes;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class ArrayListClass {
@@ -30,6 +32,7 @@ public class ArrayListClass {
         list2.add(10);
         list2.add(20);
         list2.add(30);
+        list2.add(15);
 
         System.out.println("Add value to ArrayList : "+ list2);
 
@@ -42,13 +45,26 @@ public class ArrayListClass {
 
         System.out.println("Size of ArrayList : "+list2.size());
 
+//         4.Collections.sort (VariableName);   // to sort ArrayList
 
-//      4. clear();  removes values from arrayList
+        Collections.sort(list2);
+
+        System.out.println("Sorted List: "+list2);
+
+
+
+
+        
+
+//      5. clear();  removes values from arrayList
 
 
         list2.clear();
 
         System.out.println("Clear method : "+list2);
+
+
+
 
 
 //      Examples
