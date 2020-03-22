@@ -133,7 +133,19 @@
       <option name="presentableId" value="Default" />
       <updated>1584373494655</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1584909550773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584909550774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="571" y="149" key="#ScannerClass" timestamp="1584383724055">
@@ -218,11 +230,11 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="459" y="188" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584559018814" />
-    <state x="0" y="23" width="1263" height="976" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584656280749">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="0" y="23" width="1263" height="976" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584909769708">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="0" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584656280749" />
-    <state x="0" y="23" width="1263" height="976" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584532189249" />
+    <state x="0" y="23" width="1263" height="976" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909769708" />
     <state x="696" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584537377047">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
