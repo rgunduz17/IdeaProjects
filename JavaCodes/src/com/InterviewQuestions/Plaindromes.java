@@ -1,4 +1,4 @@
-package com.test;
+package com.InterviewQuestions;
 
 public class Plaindromes {
 

@@ -1,4 +1,4 @@
-package com.test;
+package com.InterviewQuestions;
 import java.util.Scanner;
 public class isPrime {
 
