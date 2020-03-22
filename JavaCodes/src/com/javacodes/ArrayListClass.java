@@ -54,7 +54,7 @@ public class ArrayListClass {
 
 
 
-        
+
 
 //      5. clear();  removes values from arrayList
 
