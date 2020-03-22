@@ -1,52 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/AlTeRnAtEcAsE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/AlTeRnAtEcAsE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/ArrayListVsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArrayListVsArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/FinRaFinRa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/FinRaFinRa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/FrequencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/FrequencyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/OverloadToMainMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/OverloadToMainMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/Plaindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/Plaindromes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/ReversedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReversedString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/SkipOddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/SkipOddOrEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/StringEqualByArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringEqualByArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/UniqueValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/UniqueValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/isPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/isPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ArrayListClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ArrayListClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ArraysClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ArraysClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ArraysMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ArraysMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ForLoops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/MultiDimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/MultiDimensionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/NestedLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ReturnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ReturnMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ScannerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/StringClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/TernaryClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/TernaryClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/WhileDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/WhileDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javacodes/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/WrapperClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/ArrayReviews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ArrayReviews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/ArrayUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ArrayUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/CoffeeOrTea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/CoffeeOrTea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/NestedLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/NestedLoopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/Practice_2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Practice_2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/RemovedChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/RemovedChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/ReturnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ReturnTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ScannerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/SeperateLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/SeperateLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/TestGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestGithub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/test/UniqueChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/UniqueChar.java" afterDir="false" />
-    </list>
+    <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +18,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1ZDV8nouVjQb5NrZncdTTwKSd5N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -80,7 +37,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -279,12 +236,12 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="226" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794896" />
-    <state x="795" y="23" width="1125" height="976" key="SettingsEditor" timestamp="1584900563945">
+    <state x="96" y="24" width="1125" height="976" key="SettingsEditor" timestamp="1584910523375">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="320" y="19" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584373800418" />
     <state x="795" y="0" key="SettingsEditor/-1920.23.1920.1057/0.0.1920.1080@0.0.1920.1080" timestamp="1584817703707" />
-    <state x="795" y="23" width="1125" height="976" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584900563945" />
+    <state x="96" y="24" width="1125" height="976" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584910523375" />
     <state x="459" y="188" key="Vcs.Push.Dialog.v2" timestamp="1584559018814">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
