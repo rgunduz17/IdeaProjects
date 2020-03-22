@@ -12,7 +12,7 @@ public class CoffeeOrTea {
         Scanner scanner = new Scanner(System.in);
         ArrayList<String> coffeeOrTea = new ArrayList<>();
 
-
+            System.out.println("Welcome to Starbucks!!!");
             System.out.println("Do you want to order coffee or tea?  YES or NO ");
 
             String order = scanner.nextLine();
@@ -47,7 +47,7 @@ public class CoffeeOrTea {
                     coffeeOrTea.add(options);
 
                     System.out.print("Choose your cup size: ");
-                    System.out.println("Short,   Tall,  Grande,  Venti ");
+                    System.out.println("Short, Tall, Grande, Venti ");
                     String size = scanner.nextLine().toLowerCase();
 
                     coffeeOrTea.add(size);
@@ -65,7 +65,7 @@ public class CoffeeOrTea {
                     coffeeOrTea.add(options);
 
                     System.out.print("Choose your cup size: ");
-                    System.out.println("Short,   Tall,  Grande,  Venti ");
+                    System.out.println("Short, Tall, Grande, Venti ");
                     String size = scanner.nextLine().toLowerCase();
 
                     coffeeOrTea.add(size);
