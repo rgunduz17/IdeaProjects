@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/AlTeRnAtEcAsE.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/ArrayListVsArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/FinRaFinRa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/FrequencyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/OverloadToMainMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/Plaindromes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/RemoveDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/ReversedString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/SkipOddOrEven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/StringEqualByArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/UniqueValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/InterviewQuestions/isPrime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/ArrayListClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/ArraysClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/ArraysMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/ForEachLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/ForLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/MethodOverloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/MultiDimensionalArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/NestedLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/Operators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/ReturnMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/ScannerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/StringClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/TernaryClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/Timer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/WhileDoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/javacodes/WrapperClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/ArrayReviews.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/ArrayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/ArrayUnique.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/CoffeeOrTea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/NestedLoopTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/Practice_2DArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/RemovedChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/ReturnTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/ScannerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/SeperateLine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/com/test/UniqueChar.class" beforeDir="false" />
-    </list>
+    <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +37,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -224,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584911246783</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1584911470267</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584911470267</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1584911518417</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584911518417</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,10 +215,10 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="680" y="411" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584910265330" />
-    <state x="493" y="45" key="CommitChangelistDialog2" timestamp="1584911469985">
+    <state x="493" y="45" key="CommitChangelistDialog2" timestamp="1584911518180">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="493" y="45" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911469985" />
+    <state x="493" y="45" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911518180" />
     <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584910810602" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom" timestamp="1584911218345">
       <screen x="0" y="23" width="1920" height="1057" />
@@ -310,17 +280,17 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="226" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794896" />
-    <state x="96" y="24" width="1125" height="976" key="SettingsEditor" timestamp="1584911352097">
+    <state x="96" y="24" width="1125" height="976" key="SettingsEditor" timestamp="1584911626678">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="320" y="19" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584373800418" />
     <state x="795" y="0" key="SettingsEditor/-1920.23.1920.1057/0.0.1920.1080@0.0.1920.1080" timestamp="1584817703707" />
-    <state x="96" y="24" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911352097" />
+    <state x="96" y="24" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911626678" />
     <state x="96" y="24" width="1125" height="976" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584910523375" />
-    <state x="459" y="202" key="Vcs.Push.Dialog.v2" timestamp="1584911482266">
+    <state x="459" y="202" key="Vcs.Push.Dialog.v2" timestamp="1584911645790">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="459" y="202" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911482266" />
+    <state x="459" y="202" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911645790" />
     <state x="459" y="188" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584559018814" />
     <state x="0" y="23" width="1263" height="976" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584909769708">
       <screen x="0" y="23" width="1920" height="977" />

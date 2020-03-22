@@ -12,5 +12,8 @@ public class TestGithub {
         System.out.println("Github sync from Intellij Idea");
 
         System.out.println("Github sync from Intellij Idea");
+
+        System.out.println("Github sync from Intellij Idea");
+
     }
 }
