@@ -3,6 +3,49 @@
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/AlTeRnAtEcAsE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/AlTeRnAtEcAsE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/ArrayListVsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArrayListVsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/FinRaFinRa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/FinRaFinRa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/FrequencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/FrequencyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/OverloadToMainMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/OverloadToMainMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/Plaindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/Plaindromes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/ReversedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReversedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/SkipOddOrEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/SkipOddOrEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/StringEqualByArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/StringEqualByArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/UniqueValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/UniqueValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterviewQuestions/isPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/isPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ArrayListClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ArrayListClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ArraysClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ArraysClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ArraysMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ArraysMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ForEachLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/MethodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/MultiDimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/MultiDimensionalArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/NestedLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ReturnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ReturnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ScannerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/StringClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/TernaryClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/TernaryClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/WhileDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/WhileDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacodes/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/WrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/ArrayReviews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ArrayReviews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/ArrayUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ArrayUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/CoffeeOrTea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/CoffeeOrTea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/NestedLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/NestedLoopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/Practice_2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Practice_2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/RemovedChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/RemovedChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/ReturnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ReturnTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/SeperateLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/SeperateLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/TestGithub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestGithub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/test/UniqueChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/UniqueChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +82,18 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Timer">
     <configuration name="ArrayListClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javacodes.ArrayListClass" />
+      <option name="MAIN_CLASS_NAME" value="javacodes.ArrayListClass" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javacodes.*" />
+          <option name="PATTERN" value="javacodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="ArrayReviews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.ArrayReviews" />
+      <option name="MAIN_CLASS_NAME" value="test.ArrayReviews" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +115,11 @@
       </method>
     </configuration>
     <configuration name="CoffeeOrTea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.CoffeeOrTea" />
+      <option name="MAIN_CLASS_NAME" value="test.CoffeeOrTea" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,7 +132,7 @@
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +141,11 @@
       </method>
     </configuration>
     <configuration name="Timer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javacodes.Timer" />
+      <option name="MAIN_CLASS_NAME" value="javacodes.Timer" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javacodes.*" />
+          <option name="PATTERN" value="javacodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584909550774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1584909792244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584909792244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,11 +211,15 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="1143" y="23" width="777" height="976" key="#Test5/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584529926700" />
-    <state x="493" y="43" key="CommitChangelistDialog2" timestamp="1584909550352">
+    <state x="680" y="411" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584910265330">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909550352" />
-    <state width="1868" height="790" key="GridCell.Tab.0.bottom" timestamp="1584909496690">
+    <state x="680" y="411" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584910265330" />
+    <state x="493" y="43" key="CommitChangelistDialog2" timestamp="1584909791949">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909791949" />
+    <state width="1868" height="226" key="GridCell.Tab.0.bottom" timestamp="1584909794895">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="203" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584848883491" />
@@ -168,10 +227,10 @@
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1584753062391" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584674249783" />
     <state width="1299" height="321" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772195" />
-    <state width="1868" height="790" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909496690" />
+    <state width="1868" height="226" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794895" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584674417643" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570801" />
-    <state width="1868" height="790" key="GridCell.Tab.0.center" timestamp="1584909496690">
+    <state width="1868" height="226" key="GridCell.Tab.0.center" timestamp="1584909794894">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="203" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584848883488" />
@@ -179,10 +238,10 @@
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1584753062389" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584674249782" />
     <state width="1299" height="321" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="790" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909496690" />
+    <state width="1868" height="226" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794894" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584674417642" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
-    <state width="1868" height="790" key="GridCell.Tab.0.left" timestamp="1584909496690">
+    <state width="1868" height="226" key="GridCell.Tab.0.left" timestamp="1584909794893">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="203" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584848883487" />
@@ -190,10 +249,10 @@
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1584753062388" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584674249781" />
     <state width="1299" height="321" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772193" />
-    <state width="1868" height="790" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909496690" />
+    <state width="1868" height="226" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794893" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584674417642" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
-    <state width="1868" height="790" key="GridCell.Tab.0.right" timestamp="1584909496690">
+    <state width="1868" height="226" key="GridCell.Tab.0.right" timestamp="1584909794895">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1868" height="203" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584848883490" />
@@ -201,25 +260,25 @@
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1584753062390" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584674249782" />
     <state width="1299" height="321" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="790" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909496690" />
+    <state width="1868" height="226" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794895" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584674417643" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570800" />
-    <state width="1868" height="226" key="GridCell.Tab.1.bottom" timestamp="1584901152897">
+    <state width="1868" height="226" key="GridCell.Tab.1.bottom" timestamp="1584909794897">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1868" height="226" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584901152897" />
-    <state width="1868" height="226" key="GridCell.Tab.1.center" timestamp="1584901152890">
+    <state width="1868" height="226" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794897" />
+    <state width="1868" height="226" key="GridCell.Tab.1.center" timestamp="1584909794896">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1868" height="226" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584901152890" />
-    <state width="1868" height="226" key="GridCell.Tab.1.left" timestamp="1584901152888">
+    <state width="1868" height="226" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794896" />
+    <state width="1868" height="226" key="GridCell.Tab.1.left" timestamp="1584909794896">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1868" height="226" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584901152888" />
-    <state width="1868" height="226" key="GridCell.Tab.1.right" timestamp="1584901152893">
+    <state width="1868" height="226" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794896" />
+    <state width="1868" height="226" key="GridCell.Tab.1.right" timestamp="1584909794896">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1868" height="226" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584901152893" />
+    <state width="1868" height="226" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794896" />
     <state x="795" y="23" width="1125" height="976" key="SettingsEditor" timestamp="1584900563945">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
