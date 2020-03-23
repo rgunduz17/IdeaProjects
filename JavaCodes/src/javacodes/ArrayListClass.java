@@ -26,7 +26,8 @@ public class ArrayListClass {
 //        method of arrayList;
 //
 //
-//        1. add(value);
+//        1. add(object);
+//           add(index, object)
 
         list2.add(10);
         list2.add(20);
@@ -44,14 +45,11 @@ public class ArrayListClass {
 
         System.out.println("Size of ArrayList : "+list2.size());
 
-//         4.Collections.sort (VariableName);   // to sort ArrayList
+//      4.Collections.sort (VariableName);   // to sort ArrayList
 
         Collections.sort(list2);
 
         System.out.println("Sorted List: "+list2);
-
-
-
 
 
 
@@ -64,15 +62,13 @@ public class ArrayListClass {
 
 
 
-
-
 //      Examples
 
 
         ArrayList<String> nameList = new ArrayList<>();
 
         nameList.add("Ridvan");
-        nameList.add("Ridas");
+        nameList.add("Gunduz");
 
         System.out.println(nameList);
 
@@ -80,35 +76,52 @@ public class ArrayListClass {
 
 
 
-        Scanner scanner = new Scanner(System.in);
-        ArrayList<String> studentNames = new ArrayList<>();
+//        Scanner scanner = new Scanner(System.in);
+//        ArrayList<String> studentNames = new ArrayList<>();
+//
+//        while (true) {
+//            System.out.println("Enter student name: ");
+//
+//            String name = scanner.nextLine();
+//
+//            studentNames.add(name);
+//
+//            System.out.println("Do you want to add another name? ");
+//
+//            String Answer = scanner.nextLine().toLowerCase();
+//
+//            if( ! (Answer.equals("yes") ||(Answer.equals("no")) )){
+//                System.out.println("Invalid Answer");
+//                break;
+//            }
+//
+//            if (Answer.equalsIgnoreCase("no")) {
+//                break;
+//            }
+//
+//
+//        }
+//
+//        System.out.println(studentNames);
 
-        while (true) {
-            System.out.println("Enter student name: ");
-
-            String name = scanner.nextLine();
-
-            studentNames.add(name);
-
-            System.out.println("Do you want to add another name? ");
-
-            String Answer = scanner.nextLine().toLowerCase();
-
-            if( ! (Answer.equals("yes") ||(Answer.equals("no")) )){
-                System.out.println("Invalid Answer");
-                break;
-            }
-
-            if (Answer.equalsIgnoreCase("no")) {
-                break;
-            }
+        System.out.println("**********************************");
 
 
-        }
+        ArrayList<String> shoppingList = new ArrayList<>();
 
-        System.out.println(studentNames);
+        shoppingList.add("apple");
+        shoppingList.add("orange");
+        shoppingList.add("grape");
+        System.out.println(shoppingList);
 
 
+
+        shoppingList.add("strawberry");
+        System.out.println(shoppingList);
+
+
+        shoppingList.add(1,"banana");
+        System.out.println(shoppingList);
 
 
 
