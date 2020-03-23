@@ -25,7 +25,7 @@ public class StringClass {
         String str = "Cybertek";
         int n=3;
         System.out.println("#"+n+ " char for "+ str + " is: "+str.charAt(n));
-
+        System.out.println(""+str.charAt(3)+str.charAt(4));
 
         System.out.println("*****************************************");
 

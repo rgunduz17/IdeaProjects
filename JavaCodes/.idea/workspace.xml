@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/WrapperVsPrimitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingBat/String2RepeatSeparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/MixedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/PrintOddsBetweenAandB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/MethodPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacodes/WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/WrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/StringClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/StringClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/TernaryClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/TernaryClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/WrapperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/WrapperClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/test/TestGithub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/test/TestGithub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacodes/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/StringClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacodes/TernaryClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/TernaryClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +57,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestGithub">
-    <configuration name="ArrayReviews" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ArrayReviews" />
+  <component name="RunManager" selected="Application.TernaryClass">
+    <configuration name="MethodPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MethodPractice" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
@@ -63,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Plaindromes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.Plaindromes" />
+    <configuration name="MixedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.MixedString" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Teacher.Day1.Sample1" />
+    <configuration name="String2RepeatSeparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingBat.String2RepeatSeparator" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Teacher.Day1.*" />
+          <option name="PATTERN" value="CodingBat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGithub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TestGithub" />
+    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacodes.StringClass" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="javacodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Timer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacodes.Timer" />
+    <configuration name="TernaryClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacodes.TernaryClass" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
@@ -116,19 +124,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Plaindromes" />
-      <item itemvalue="Application.ArrayReviews" />
-      <item itemvalue="Application.Timer" />
-      <item itemvalue="Application.TestGithub" />
-      <item itemvalue="Application.Sample1" />
+      <item itemvalue="Application.MethodPractice" />
+      <item itemvalue="Application.MixedString" />
+      <item itemvalue="Application.StringClass" />
+      <item itemvalue="Application.String2RepeatSeparator" />
+      <item itemvalue="Application.TernaryClass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestGithub" />
-        <item itemvalue="Application.Sample1" />
-        <item itemvalue="Application.Timer" />
-        <item itemvalue="Application.ArrayReviews" />
-        <item itemvalue="Application.Plaindromes" />
+        <item itemvalue="Application.TernaryClass" />
+        <item itemvalue="Application.String2RepeatSeparator" />
+        <item itemvalue="Application.MixedString" />
+        <item itemvalue="Application.StringClass" />
+        <item itemvalue="Application.MethodPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584917331115</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1584932321497</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584932321497</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,6 +244,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="571" y="121" key="#PrintOddsBetweenAandB" timestamp="1584933531381">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="571" y="121" key="#PrintOddsBetweenAandB/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584933531381" />
     <state x="571" y="149" key="#ScannerClass" timestamp="1584383724055">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -247,48 +266,52 @@
     </state>
     <state x="493" y="45" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911518180" />
     <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584910810602" />
-    <state width="1868" height="196" key="GridCell.Tab.0.bottom" timestamp="1584917326737">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1868" height="196" key="GridCell.Tab.0.bottom" timestamp="1584993591334">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state width="1868" height="203" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584848883491" />
     <state width="1868" height="203" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606702" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1584753062391" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911648206" />
     <state width="1299" height="321" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772195" />
-    <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584917326737" />
+    <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584945290216" />
+    <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591334" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429094" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570801" />
-    <state width="1868" height="196" key="GridCell.Tab.0.center" timestamp="1584917326735">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1868" height="196" key="GridCell.Tab.0.center" timestamp="1584993591333">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state width="1868" height="203" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584848883488" />
     <state width="1868" height="203" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606701" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1584753062389" />
     <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911648205" />
     <state width="1299" height="321" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584917326735" />
+    <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584945290215" />
+    <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
-    <state width="1868" height="196" key="GridCell.Tab.0.left" timestamp="1584917326735">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1868" height="196" key="GridCell.Tab.0.left" timestamp="1584993591333">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state width="1868" height="203" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584848883487" />
     <state width="1868" height="203" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606699" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1584753062388" />
     <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911648205" />
     <state width="1299" height="321" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772193" />
-    <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584917326735" />
+    <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584945290214" />
+    <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
-    <state width="1868" height="196" key="GridCell.Tab.0.right" timestamp="1584917326736">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1868" height="196" key="GridCell.Tab.0.right" timestamp="1584993591333">
+      <screen x="0" y="23" width="1920" height="982" />
     </state>
     <state width="1868" height="203" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584848883490" />
     <state width="1868" height="203" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606701" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1584753062390" />
     <state width="1868" height="196" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911648206" />
     <state width="1299" height="321" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1584502772194" />
-    <state width="1868" height="196" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584917326736" />
+    <state width="1868" height="196" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584945290215" />
+    <state width="1868" height="196" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.right/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570800" />
     <state width="1868" height="226" key="GridCell.Tab.1.bottom" timestamp="1584909794897">
@@ -337,11 +360,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="437" y="37" width="1045" height="1005" key="find.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584843595155" />
-    <state x="541" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1584761803620">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="541" y="66" width="838" height="934" key="search.everywhere.popup" timestamp="1584936641774">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="541" y="48" width="838" height="1032" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584761803620" />
-    <state x="541" y="66" width="838" height="934" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584537161192" />
+    <state x="541" y="66" width="838" height="934" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584936641774" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaCodes$NestedLoopTest.ic" NAME="NestedLoopTest Coverage Results" MODIFIED="1584536418284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

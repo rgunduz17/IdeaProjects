@@ -35,12 +35,14 @@ public class TernaryClass {
         // SCANNER CLASS
 
         //import java.util.Scanner; ==> between package and className
-         Scanner variableName = new Scanner(System.in);  //==> In main method
+        Scanner scan = new Scanner(System.in);  //==> In main method
         System.out.println("Enter a number: ");
-        int num =  variableName.nextInt();
+        int x = scan.nextInt();
 
-        System.out.println("Your number multiple by 5: " + num * 5);
 
+        int result=0;
+        result = ( x >= 5) ? x : (-x);
+        System.out.println(result);
 
 
 
