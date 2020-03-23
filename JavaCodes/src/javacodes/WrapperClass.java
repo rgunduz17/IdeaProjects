@@ -11,7 +11,7 @@ public class WrapperClass {
 
 
         int numInt = 10;
-        Integer numInterger =10;
+        Integer numInteger =10;
 
         long longnum =20L;
         Long numLong =longnum; // auto-boxing: converting primitive values to Wrapper class
@@ -24,9 +24,9 @@ public class WrapperClass {
 
         char ch3=ch1;       // none
 
-        char ch4 = ch2;     //unboxing: converting wrapper clas to primitive value
+        char ch4 = ch2;     //unboxing: converting wrapper class to primitive value
 
-//      useful methods of Wrapper Clas:
+//      useful methods of Wrapper Class:
 
 //      1. MAX_VALUE:
 
@@ -89,7 +89,7 @@ public class WrapperClass {
 
         int z= Integer.valueOf("12345"); //unboxing
 
-        Integer z1 = Integer.valueOf("1234");
+        Integer z1 = Integer.valueOf("1234"); //none
 
         Integer z2 = (int)Integer.valueOf("121215"+ 3); //auto boxing
 
