@@ -3,7 +3,7 @@ package test;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class ConstructorReview {
+public class MethodReview {
 
     public static ArrayList<Integer> RemoveDup(ArrayList<Integer> list) {
 
