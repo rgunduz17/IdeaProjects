@@ -43,6 +43,10 @@ public class ArrayListClass {
 
         System.out.println("addAll method: "+names);
 
+        ArrayList<Integer> numbers =new ArrayList<>(Arrays.asList(1,1,2,2,2,3,3,3,3));
+
+        System.out.println(numbers);
+
 
 //      2. get(indexNum);
 
