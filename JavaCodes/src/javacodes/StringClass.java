@@ -136,7 +136,7 @@ public class StringClass {
 
         String a10= "Batch 18 is a great group";
 
-        // a10.indexOf("g");
+        // a10.indexOf("g");|
 
         int num1 = a10.indexOf("g");
 

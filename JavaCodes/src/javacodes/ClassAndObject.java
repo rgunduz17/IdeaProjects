@@ -10,6 +10,9 @@ public class ClassAndObject {
 
     // local variable : variables that is created within the method
 
+    // instance method: method belongs to object
 
+    // instance method:
+    // access modifier  returnType methodName
 
 }
