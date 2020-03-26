@@ -29,9 +29,16 @@ public class BankAccount {
 		
 		String username, password;
 		
-		public BankAccount(String username, String passowrd) {
+		public  void UserInfo(String username, String password) {
+			System.out.println("---------------------------------------------");
 			this.username = username;
-			this.password = passowrd;
+			this.password = password;
+
+			String psw = ""+password;
+			String pass = "*********"+psw.substring(psw.length()-1);
+			System.out.println("Account username: "+ username);
+			System.out.println("Account password: "+ pass);
+			System.out.println("---------------------------------------------");
 		}
 		
 		public BankAccount() {

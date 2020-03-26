@@ -10,7 +10,7 @@ public class Employee {
 	String JobTitle;
 	double salary;
 	
-	public Employee(String Name, String ID, int age, int SSN, String JobTitle, double salaary) {
+	public Employee(String Name, String ID, int age, int SSN, String JobTitle, double salary) {
 		this.Name = Name;
 		this.ID = ID;
 		this.age = age;
@@ -20,14 +20,14 @@ public class Employee {
 	}
 	
 	
-	public void getinfo() {
+	public void getInfo() {
 		
-		System.out.println("Employee name is: "+Name);
-		System.out.println("Social Security Number is: "+SSN);
-		System.out.println("Age is: "+age);
+		System.out.println("Employee name: "+Name);
+		System.out.println("Social Security Number: "+SSN);
+		System.out.println("Age: "+age);
 		System.out.println("Job title: "+JobTitle);
-		System.out.println("Employe ID is: "+ID);
-		System.out.println("Salary: "+salary);
+		System.out.println("Employee ID: "+ID);
+		System.out.println("Salary: $"+salary);
 		
 		System.out.println("-------------------------------------------------");
 	}

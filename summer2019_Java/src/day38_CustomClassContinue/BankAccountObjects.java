@@ -38,8 +38,13 @@ public class BankAccountObjects {
 			account3.Withdraw(200);
 			account3.Deposit(3000);
 		
-		
-		
+
+		BankAccount account4 = new BankAccount("Ridvan Gunduz", 1234123412341234L);
+		account4.ShowBalance();
+		account4.UserInfo("RidvanG", "Ridas12345");
+		account4.Deposit(4000);
+		account4.Withdraw(2000);
+
 	}
 	
 }
