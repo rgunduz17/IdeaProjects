@@ -6,11 +6,11 @@ public class StaticKeyWords {
 
     // static members: belongs to class
 
-    // static variables: created in the class outside any method with static keyword
+    // static variables: created in the class, outside any method with static keyword
 
     // static methods: a method that we can call through the class name
 
-    // static initializer block:
+
 
     //  instance variable VS static variables
     // belongs to object        belongs to class(class variables)
