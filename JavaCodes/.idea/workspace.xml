@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javacodes/StaticKeyWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestMustafaAbi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -324,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585282618403</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="update">
+      <created>1585348944666</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1585348944666</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -354,9 +359,10 @@
     </state>
     <state x="680" y="411" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584910265330" />
     <state x="680" y="443" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914249865" />
-    <state x="493" y="43" key="CommitChangelistDialog2" timestamp="1585282618122">
-      <screen x="0" y="23" width="1920" height="984" />
+    <state x="493" y="22" key="CommitChangelistDialog2" timestamp="1585348944328">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="493" y="22" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585348944328" />
     <state x="493" y="45" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911518180" />
     <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585251742304" />
     <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.984@0.23.1920.984" timestamp="1585282618122" />
@@ -451,9 +457,10 @@
     <state x="795" y="0" key="SettingsEditor/-1920.23.1920.1057/0.0.1920.1080@0.0.1920.1080" timestamp="1584817703707" />
     <state x="96" y="24" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911626678" />
     <state x="96" y="24" width="1125" height="976" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585088504066" />
-    <state x="459" y="189" key="Vcs.Push.Dialog.v2" timestamp="1585282621730">
-      <screen x="0" y="23" width="1920" height="984" />
+    <state x="459" y="182" key="Vcs.Push.Dialog.v2" timestamp="1585348949138">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="459" y="182" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585348949138" />
     <state x="459" y="202" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911661333" />
     <state x="459" y="188" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585251745708" />
     <state x="459" y="188" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1584999255469" />
