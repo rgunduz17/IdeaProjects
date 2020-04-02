@@ -228,7 +228,7 @@ public class StringClass {
 
         System.out.println("*****************************************");
 
-
+        System.out.println();
 
     }
 }
