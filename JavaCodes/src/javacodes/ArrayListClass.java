@@ -63,7 +63,8 @@ public class ArrayListClass {
 
         System.out.println("Sorted List: "+list2);
 
-//      5. set(index number, object);  given object will replace with whatever index is;
+//      5. set(index number, object);
+//      given object will replace with whatever index is;
 
         list2.set(2, 100); // index 2 (20) is changed with 100
 
@@ -85,6 +86,7 @@ public class ArrayListClass {
         System.out.println("Contain method result is: "+result);
 
 //     7.  equals(ArrayList);
+//      boolean value (true or false)
 
         ArrayList<String> badGuys = new ArrayList<>();
 
@@ -101,7 +103,8 @@ public class ArrayListClass {
 //      8.remove
 //        remove(index);    remove values from that index number
 //        remove(String);   remove values from that index number
-//        remove(Integer);  remove first matching object at the same return boolean value
+//        remove(Integer);  remove first matching object
+//                          at the same return boolean value
 //        removeAll(Interface)
 
         ArrayList<Integer> list5 = new ArrayList<>();
@@ -156,12 +159,12 @@ public class ArrayListClass {
 
 //      9. clear();  removes values from arrayList
 
-
         list2.clear();
 
         System.out.println("Clear method : "+list2);
 
-//      10. IndexOf(Object);   return the index of the given object
+//      10. IndexOf(Object);
+//      return the index of the given object
 
 
         ArrayList<Integer> list9 = new ArrayList<>();
@@ -180,7 +183,8 @@ public class ArrayListClass {
         System.out.println("Index of method: "+a9);
 
 
-//      11. lastindexOf(object);  return last occurence of objects index number
+//      11. lastIndexOf(object);
+//      return last occurrence of objects index number
 
 
         System.out.println(list9);
@@ -188,7 +192,8 @@ public class ArrayListClass {
         System.out.println("Last index of method: "+ a10);
 
 
-//      Arrays.asList(object Array);    Converting Array to ArrayList
+//      Arrays.asList(object Array);
+//      Converting Array to ArrayList
 
        Integer[] arr9= {1,2,3,4,5,6};
          System.out.println(Arrays.toString(arr9));

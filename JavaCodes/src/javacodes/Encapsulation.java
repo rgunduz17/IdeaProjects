@@ -23,7 +23,7 @@ public class Encapsulation {
 //                       if the parameter has the same name with instance variable,
     //                        we need to use this. keyword to call instance variable.
 
-//      getter
+//  getter
     public String getName(){
         return Name;
     }
