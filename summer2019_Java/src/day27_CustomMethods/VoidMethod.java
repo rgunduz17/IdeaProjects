@@ -2,13 +2,13 @@ package day27_CustomMethods;
 
 public class VoidMethod {
 
-	/*
-	  	decleration of method:
-	  	access-modifier	specifier	return-type	methodname(){
-	  			statements;
-	  	}
-	  		
-	 */
+
+//	  	declaration of method:
+//	  	access-modifier	specifier	return-type  	methodName(){
+//	  			statements;
+//	  	}
+//
+
 	
 	public static void main(String[] args) {
 		
@@ -39,7 +39,7 @@ public class VoidMethod {
 	public static void myFirstMethod() {
 		
 	//public static void main(String[] args) {}
-					// methods must be declared wthin the class
+					// methods must be declared within the class
 	
 		System.out.println("Hello World");
 		System.out.println("Hello Cybertek");

@@ -4,11 +4,11 @@ public class StringMethods {
 
 	public static void main(String [] args) {
 		
+
+//		1. charAt(index):
+
 		String str="Cybertek";
-	// index num:	01234567
-		
-			// charAt(index):
-		
+//	 	index num:	01234567
 		System.out.println(str.charAt(4));
 		
 			char ch= str.charAt(4);
@@ -21,37 +21,43 @@ public class StringMethods {
 		System.out.println(str2.charAt(2));
 		
 		
-	// length():
+//	 	2.length():
 		
 		String name= "Donald J Trump";
+		System.out.println(name.length());
+
 		//int n = name.strip().length();
-		System.out.println(name);
 		
-		
-	// concat():
+//	 	3. concat():
 		String s1 = "Cybertek";
 		
-		s1.concat(" School"); // attempt to modify String s1
-		
-		System.out.println(s1); // String is immutable, Cybertek will be printed
-		
+		s1.concat(" School");
+//		 attempt to modify String s1
+		System.out.println(s1);
+//		 String is immutable, Cybertek will be printed
 		s1 = s1.concat(" School");
-		System.out.println(s1); // Cybertek School
+		System.out.println(s1);
+//		 Cybertek School
 		
 		
-	// toUpperCase(): converts to upper case
+//	 	4. toUpperCase():
+//	 	converts to upper case
+
 		String N= "cybertek";
-			N.toUpperCase();
-		System.out.println(N); // cybertek String is immutable
+		System.out.println(N.toUpperCase());
+
+
 		
 		N=N.toUpperCase();
 		System.out.println(N); // CYBERTEK
 		
 		
-	// toLowerCase():
+//	 	5. toLowerCase():
+
 		String name1 = "ABDURAHMAN";
-		name1.toLowerCase();
-		System.out.println(name1); // "ABDURAHMAN" String is immutable
+		System.out.println(name1.toLowerCase());
+
+		// "ABDURAHMAN" String is immutable
 		
 		name1= name1.toLowerCase();
 		System.out.println(name1);

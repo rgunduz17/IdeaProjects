@@ -7,9 +7,7 @@ public class ArithmaticOperators {
 	 -: subtraction, subtracts a number from another
 	 *: multiplication, multiplies numbers together
 	 /: division, divides two numbers
-	 
 	 %: remainder, returns remainder from division
-	 
 	 */
 	
 	public static void main(String[] args) {
@@ -105,7 +103,6 @@ public class ArithmaticOperators {
 			/*
 			 first come first serve, except for VIP
 			 	VIP: %, /, *
-			 	
 			 	highest : (), %, /, *
 			 	
 			 */

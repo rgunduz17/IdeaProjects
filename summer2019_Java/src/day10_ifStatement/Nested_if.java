@@ -6,7 +6,6 @@ public class Nested_if {
 	 	if ( condition ){
 	 			if ( condition2 ){
 	 					//some code run
-	 			
 	 			}
 	 	
 	 	}

@@ -94,12 +94,12 @@ public class StringClass {
 
         System.out.println("*****************************************");
 
-        // 8. replace(old char, new char)
-
-
+//         8. replace(old char, new char)
 
         String a9 = "Java is Fun Programming Language";
-        // a9. replace('a', 'e');
+//         a9. replace('a', 'e');
+//        System.out.println(a9.replace('a','e'));
+
 
         a9= a9. replace('a', 'e');
 
@@ -107,37 +107,35 @@ public class StringClass {
 
 
 
-        //  replace (old str, new str)
+//      8. replace (old str, new str)
 
         String str3 = "Today is gonna be great day to learn JAVA";
-       str3 = str3.replace("Today", "Tomorrow");
+        str3 = str3.replace("Today", "Tomorrow");
+        System.out.println(str3);
+
         System.out.println("Replaced \"Today\" with \"Tomorrow\": " + str3);
 
-        //  replaceFirst(old str, new str)
+//       8. replaceFirst(old str, new str)
 
         String str4 = "Java is fun, Java is good.";
-
         str4 = str4.replaceFirst("Java", "Phyton");
         System.out.println("Replaced first \"Java\" word with \"Phyton\" : "+str4);
 
-        //  replaceAll(old str, new str)
-
+//        8.  replaceAll(old str, new str)
 
         String str5 = "how to do in java provides java tutorials";
+        String newStr = str5.replaceAll("java", "Pyhton");
 
-          String newStr = str5.replaceAll("java", "Pyhton");
 
-          System.out.println("Replaced All \"java\" words with \"Phyton\": " + newStr);
+        System.out.println("Replaced All \"java\" words with \"Phyton\": " + newStr);
 
          System.out.println("*****************************************");
 
 
-         // 9. indexOf (str)
+//      9. indexOf (str)
 
         String a10= "Batch 18 is a great group";
-
-        // a10.indexOf("g");|
-
+//         a10.indexOf("g");
         int num1 = a10.indexOf("g");
 
         System.out.println( "index number of \"g\" is: " + a10.indexOf("g"));
@@ -154,52 +152,52 @@ public class StringClass {
 
         System.out.println("*****************************************");
 
-        //  10.  lastIndexOf()
+//      10.  lastIndexOf()
 
         String a11= "VABCDEFGHIJKLMNOPRSTUVYZ";
+        int num4 = a11.lastIndexOf("V");
+        System.out.println("Last indexOf \"V\" is : "+num4);
 
         int num3= a11.indexOf("V");
-        int num4 = a11.lastIndexOf("V");
+ //       int num4 = a11.lastIndexOf("V");
 
         System.out.println("First indexOf \"V\" is : "+num3);
-        System.out.println("Last indexOf \"V\" is : "+num4);
+ //       System.out.println("Last indexOf \"V\" is : "+num4);
 
 
         System.out.println("*****************************************");
 
 //      11. isEmpty()
-
+//          return boolean expression
         String a12= "Cybertek";
         boolean test1= a12.isEmpty();
         System.out.println(test1);
+//      false
 
         String a13 = "";
 
-        a13 = (a13.isEmpty()) ? "its empty String" : "it not empty";
+        a13 = (a13.isEmpty()) ? "its empty String" : "its not empty";
         System.out.println(a13);
 
         System.out.println("*****************************************");
 
-//      12. equals()
-
+//      12. equals(str)
+//          return boolean expression
         String a14 = "Cybertek";
-
         String a15= new String("Cybertek");
-
-        System.out.println(a14 == a15);
         boolean a16 = a14.equals(a15);
+
+
         System.out.println("a14 equals to a15 is: "+a16);
         
         System.out.println("*****************************************");
 
 
 //      13. contains (str)
-
-        //return boolean expression
+//          return boolean expression
 
         String a17 = "Ridvan";
-        //name.contains ("Good man");
-
+//        name.contains ("Good man");
         boolean test2 = name.contains ("Good man");
         System.out.println("Contains: " + test2);
 
@@ -209,8 +207,7 @@ public class StringClass {
 
 
 //      14. startsWith(str)
-//      boolean expression
-
+//          return boolean expression
         String today = "Java";
         boolean test3 = today.startsWith("J");
 
@@ -220,10 +217,10 @@ public class StringClass {
 
 
 //      15. endsWith(str)
-//        boolean expression
-
+//          return boolean expression
         String tomorrow = "Friday";
         boolean test4 = tomorrow.endsWith("y");
+
         System.out.println(tomorrow+ " ends with y is: " +test4);
 
         System.out.println("*****************************************");

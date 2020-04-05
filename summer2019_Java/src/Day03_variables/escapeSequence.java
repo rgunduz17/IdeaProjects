@@ -8,9 +8,9 @@ public class escapeSequence {
 	 \' or ' makes a single quote
 	 \" double quote
 	 / slash
-	 
-	 
 	  */
+
+
 	public static void main(String[] args) {
 		System.out.println("Hello Cybertek\nBatch 12 Students");
 

@@ -4,12 +4,12 @@ public class ForLoops {
 
     public static void main(String[] args) {
 
-//  repeating steps multiple times
+//       repeating steps multiple times
 
 //          for(init; condition; increment/decrement ){
 //
 //          }
-    //statement will continue until becomes FALSE
+//      statement will continue until becomes FALSE
 
         for (  int i =10; i>0; i--) {
 

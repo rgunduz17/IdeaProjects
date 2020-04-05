@@ -3,14 +3,16 @@ package day12_SwitchStatement;
 public class SwitchStatement {
 
 	/*
-	 switch statement does similar thing as multi branch if statement
+	 switch statement:
+	 	does similar thing as
+	 	multi branch if statement
 	 
-	 		switch(expression){
-	 			case CaseValue:
-	 					statements1
-	 					statements2
-	 			default:				
-	 					statement
+	 	switch(expression){
+	 		case CaseValue:
+	 				statements1
+	 				statements2
+	 		default:
+	 				statement
 	 		}
 	 
 	 
@@ -25,8 +27,7 @@ public class SwitchStatement {
 		} else {
 			System.out.println("Invalid");
 		}
-		
-		
+
 		switch(score) { //Must give an expression: data
 			case 1:
 				System.out.println("1");
@@ -34,7 +35,6 @@ public class SwitchStatement {
 			case 2:
 				System.out.println("2");
 				break;
-			
 			default:
 				System.out.println("Invalid");
 				break;

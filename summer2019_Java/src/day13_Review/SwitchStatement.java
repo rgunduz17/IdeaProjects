@@ -2,7 +2,7 @@ package day13_Review;
 
 public class SwitchStatement {
 	/*
-    
+    SWITCH STATEMENT:
     switch(Expression){
            case caseValue:
                        statements;
@@ -11,7 +11,6 @@ public class SwitchStatement {
            default:
                    statements;
                    break;
-    
     }
     
     */

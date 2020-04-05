@@ -79,19 +79,19 @@ public class WhileLoop {
         System.out.println();
         /*
           converting for loop to while loop:
-                Initialization;
-                    while(condition){
-                        statements;
-                        iterator;
-                    }
-         */
-        
+
+          */
+//                Initialization;
+//                    while(condition){
+//                        statements;
+//                        iterator;
+//                    }
+
             int x = 1;
             while(x <= 100) {
                 if(x%2==0) {
                     System.out.print(x+" ");
                 }
-                
                 x++;
             }
         

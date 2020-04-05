@@ -2,12 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/GetterSetterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/RemoveFirstAndLastxXChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/forLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/FindLongestStringOfnWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/FindMaxOfnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/FindMinOfnNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/ArrayListClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/ArrayListClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/ArraysClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/ArraysClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/ArraysMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/ArraysMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/StringClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/StringClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/TernaryClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/TernaryClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/WhileDoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/WhileDoWhile.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/javacodes/ArrayListClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ArrayListClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacodes/ArraysClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ArraysClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacodes/ArraysMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ArraysMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacodes/ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacodes/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/StringClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacodes/TernaryClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/TernaryClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacodes/WhileDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/WhileDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/Day03_variables/comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/Day03_variables/comments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/Day03_variables/escapeSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/Day03_variables/escapeSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day06_ArithmaticOperators/ArithmaticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day06_ArithmaticOperators/ArithmaticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day08_ShortHandOperators/ShortHand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day08_ShortHandOperators/ShortHand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day09_Review/If_Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day09_Review/If_Statement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day10_ifStatement/Nested_if.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day10_ifStatement/Nested_if.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day10_ifStatement/if_Else_Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day10_ifStatement/if_Else_Statement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day12_SwitchStatement/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day12_SwitchStatement/SwitchStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day13_Review/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day13_Review/SwitchStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day14__Scanner/ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day14__Scanner/ScannerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day14__Scanner/Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day14__Scanner/Ternary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day15_Scanner_StringClass/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day15_Scanner_StringClass/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day17_StringClass/StringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day17_StringClass/StringMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day19_ForLoop/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day19_ForLoop/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day21_whileLoops/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day21_whileLoops/WhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day26_ForEach/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day26_ForEach/ForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day27_CustomMethods/VoidMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day27_CustomMethods/VoidMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +72,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -53,13 +81,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveFirstAndLastChar">
-    <configuration name="EmailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.EmailTest" />
+  <component name="RunManager" selected="Application.FindLongestStringOfnWord">
+    <configuration name="FindLongestStringOfnWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FindLongestStringOfnWord" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +95,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.LengthTest" />
+    <configuration name="FindMaxMinOfnNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FindMaxMinOfnNumber" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMinOfnNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FindMinOfnNumbers" />
+      <module name="JavaCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacodes.ForLoops" />
+      <module name="JavaCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,46 +147,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.StringTest" />
-      <module name="JavaCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="forLoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.forLoopTest" />
-      <module name="JavaCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.LengthTest" />
-      <item itemvalue="Application.EmailTest" />
-      <item itemvalue="Application.forLoopTest" />
-      <item itemvalue="Application.StringTest" />
       <item itemvalue="Application.RemoveFirstAndLastChar" />
+      <item itemvalue="Application.ForLoops" />
+      <item itemvalue="Application.FindMaxMinOfnNumber" />
+      <item itemvalue="Application.FindMinOfnNumbers" />
+      <item itemvalue="Application.FindLongestStringOfnWord" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindLongestStringOfnWord" />
+        <item itemvalue="Application.FindMinOfnNumbers" />
+        <item itemvalue="Application.FindMaxMinOfnNumber" />
+        <item itemvalue="Application.ForLoops" />
         <item itemvalue="Application.RemoveFirstAndLastChar" />
-        <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.forLoopTest" />
-        <item itemvalue="Application.EmailTest" />
-        <item itemvalue="Application.LengthTest" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585865214660</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="update">
+      <created>1585964578775</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585964578775</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -382,72 +417,73 @@
     </state>
     <state x="680" y="411" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584910265330" />
     <state x="680" y="443" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914249865" />
-    <state x="-1427" y="45" key="CommitChangelistDialog2" timestamp="1585865214202">
+    <state x="-1427" y="45" key="CommitChangelistDialog2" timestamp="1585964578373">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="493" y="22" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585418355889" />
     <state x="493" y="45" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911518180" />
+    <state x="-1427" y="45" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585964578373" />
     <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585251742304" />
     <state x="-1427" y="45" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585865214202" />
     <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.984@0.23.1920.984" timestamp="1585282618122" />
-    <state width="1216" height="201" key="GridCell.Tab.0.bottom" timestamp="1585947267755">
+    <state width="1868" height="201" key="GridCell.Tab.0.bottom" timestamp="1586051179567">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585431910564" />
     <state width="1868" height="203" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606702" />
     <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1585417178112" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911648206" />
-    <state width="1216" height="201" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585947267755" />
+    <state width="1868" height="201" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585973123294" />
     <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585276045179" />
-    <state width="1532" height="203" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1585865156114" />
+    <state width="1868" height="201" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586051179567" />
     <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1585616777100" />
     <state width="800" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482217" />
     <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239628" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591334" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429094" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570801" />
-    <state width="1216" height="201" key="GridCell.Tab.0.center" timestamp="1585947267751">
+    <state width="1868" height="201" key="GridCell.Tab.0.center" timestamp="1586051179567">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585431910562" />
     <state width="1868" height="203" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606701" />
     <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1585417178109" />
     <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911648205" />
-    <state width="1216" height="201" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585947267751" />
+    <state width="1868" height="201" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585973123293" />
     <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585276045178" />
-    <state width="1532" height="203" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1585865156113" />
+    <state width="1868" height="201" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586051179567" />
     <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1585616777099" />
     <state width="800" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482215" />
     <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239627" />
     <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
-    <state width="1216" height="201" key="GridCell.Tab.0.left" timestamp="1585947267747">
+    <state width="1868" height="201" key="GridCell.Tab.0.left" timestamp="1586051179566">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585431910561" />
     <state width="1868" height="203" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606699" />
     <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1585417178103" />
     <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911648205" />
-    <state width="1216" height="201" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585947267747" />
+    <state width="1868" height="201" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585973123292" />
     <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585276045178" />
-    <state width="1532" height="203" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1585865156112" />
+    <state width="1868" height="201" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586051179566" />
     <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1585616777099" />
     <state width="800" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482213" />
     <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239626" />
     <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
-    <state width="1216" height="201" key="GridCell.Tab.0.right" timestamp="1585947267754">
+    <state width="1868" height="201" key="GridCell.Tab.0.right" timestamp="1586051179567">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585431910563" />
     <state width="1868" height="203" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606701" />
     <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1920.1001@0.0.1920.1001" timestamp="1585417178111" />
     <state width="1868" height="196" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911648206" />
-    <state width="1216" height="201" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585947267754" />
+    <state width="1868" height="201" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585973123293" />
     <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585276045179" />
-    <state width="1532" height="203" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1585865156113" />
+    <state width="1868" height="201" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586051179567" />
     <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1585616777100" />
     <state width="800" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482217" />
     <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239628" />
@@ -474,20 +510,21 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="495" y="144" key="NewModule_or_Project.wizard/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584913362131" />
-    <state x="-1920" y="23" width="1125" height="976" key="SettingsEditor" timestamp="1585964414712">
+    <state x="-1920" y="23" width="1125" height="976" key="SettingsEditor" timestamp="1585964751500">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="320" y="19" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584373800418" />
     <state x="795" y="0" key="SettingsEditor/-1920.23.1920.1057/0.0.1920.1080@0.0.1920.1080" timestamp="1584817703707" />
     <state x="96" y="24" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911626678" />
-    <state x="-1920" y="23" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585964414712" />
+    <state x="-1920" y="23" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585964751500" />
     <state x="96" y="24" width="1125" height="976" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585088504066" />
     <state x="0" y="23" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1585674599765" />
-    <state x="-1461" y="201" key="Vcs.Push.Dialog.v2" timestamp="1585865217763">
+    <state x="-1461" y="201" key="Vcs.Push.Dialog.v2" timestamp="1585964582747">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="459" y="182" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585418363834" />
     <state x="459" y="202" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911661333" />
+    <state x="-1461" y="201" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585964582747" />
     <state x="459" y="188" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585251745708" />
     <state x="459" y="188" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1584999255469" />
     <state x="-1461" y="201" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585865217763" />

@@ -5,8 +5,9 @@ public class Ternary {
 	/*
 	 In Ternary
 		 if(condition)		==> (condition)?
-		 else				==> :
 		 else if(condition)	==> :(condition)?
+		 else				==> ;
+
 		 
 	 */
 	

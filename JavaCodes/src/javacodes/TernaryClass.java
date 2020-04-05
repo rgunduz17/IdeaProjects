@@ -6,17 +6,13 @@ public class TernaryClass {
 
     public static void main(String[] args) {
 
-        // TERNARY CLASS (IF WITHOUT CURLY BRACES AND IF/ ELSE IF/ ELSE WORDS )
+//         TERNARY CLASS
+//         (IF WITHOUT CURLY BRACES AND IF/ ELSE IF/ ELSE WORDS )
 
-        //RULE;
-        // 1. Define your variables;
-        // 2. Start with variable name
-
-
-//
-//       RULE   variableName = (if) Boolean value ? return statement
-//            : (else if) Boolean value ? return statement
-//            : (else) return statement;
+//         RULE
+//         variableName = (if) Boolean value ? return statement
+//                       : (else if) Boolean value ? return statement
+//                       : (else) return statement;
 //
 
 

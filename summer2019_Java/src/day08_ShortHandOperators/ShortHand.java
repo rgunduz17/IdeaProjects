@@ -2,6 +2,7 @@ package day08_ShortHandOperators;
 
 public class ShortHand {
 			/*
+			ShortHand
 		 += : addition assignment: 	x += y ==> x = x + y
 		 -= : subtraction assignment	x -= y ==> x = x - y 
 		 *= : multiplication assignment: x *= y ==> x =x * y

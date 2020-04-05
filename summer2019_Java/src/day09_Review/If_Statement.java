@@ -3,15 +3,14 @@ package day09_Review;
 public class If_Statement {
 
 	/*
-	 	if statement: 
-	 	
-	 			single if statement:
+	 	if statement:
+	 	single if statement:
 	 			
-	 				if(boolean expression) {
-	  						some codes to run
-	  				}
-	  					only executed if statement is true
-	  					if block only gets executed the condition is true
+	 	if(boolean expression) {
+	  		some codes to run
+	  		}
+	  	only executed if statement is true
+	  	if block only gets executed the condition is true
 	  			
 	  
 	  

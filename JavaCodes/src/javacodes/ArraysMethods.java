@@ -13,11 +13,13 @@ public class ArraysMethods {
         System.out.println(arr);
 
 
-        // 1.convert to String
-        //  Arrays.toString(variableName)
-        // import java.util.Arrays
+//          1.convert to String
+//          Arrays.toString(variableName)
+//          import java.util.Arrays
 
-        String str = Arrays.toString(arr);
+            String str = Arrays.toString(arr);
+
+
         System.out.println(str);
 
         String [] names = {"Elif", "Ali", "Veli", "Deli" };
@@ -26,10 +28,10 @@ public class ArraysMethods {
 
         System.out.println(Arrays.toString(names));
 
-        // 2. sort method
-        // sorts smallest to largest ( or A-Z)
-
-        //Arrays.sort(variableName)
+//         2. sort method
+//         sorts smallest to largest ( or A-Z)
+//
+//        Arrays.sort(variableName)
 
         int [] Numbers = { 9,8,100,3000,4,5,6};
 
@@ -62,7 +64,6 @@ public class ArraysMethods {
 //      3.  split (str)
 
         String sentence = "Today is great day Good day to learn Java";
-
         String [] arr1 = sentence.split(" ");
 
         System.out.println(Arrays.toString(arr1));
@@ -79,7 +80,6 @@ public class ArraysMethods {
 //     4. toCharArray()
 
         String str5= "Java";
-
         char [] ch = str5.toCharArray();
 
         System.out.println(Arrays.toString(ch));

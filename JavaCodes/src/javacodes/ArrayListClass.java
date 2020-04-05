@@ -30,14 +30,14 @@ public class ArrayListClass {
 //        1. add(object);
 //           add(index, object)
 
-        list2.add(10);
-        list2.add(20);
-        list2.add(30);
-        list2.add(15);
+         list2.add(10);
+         list2.add(20);
+         list2.add(30);
+         list2.add(15);
 
         System.out.println("Add value to ArrayList : "+ list2);
 
-//          addAll(object);
+//      addAll(object);
         ArrayList<String> names = new ArrayList<>();
         names.addAll(Arrays.asList("Ridvan", "Ali","Veli","Deli"));
 
@@ -49,16 +49,13 @@ public class ArrayListClass {
 
 
 //      2. get(indexNum);
-
         System.out.println("Get from ArrayList : "+list2.get(1));
 
 //      3. size();      total length of ArrayList
-
-
         System.out.println("Size of ArrayList : "+list2.size());
 
-//      4.Collections.sort (VariableName);   // to sort ArrayList
-
+//      4.Collections.sort (VariableName);
+//        to sort ArrayList
         Collections.sort(list2);
 
         System.out.println("Sorted List: "+list2);
@@ -66,7 +63,8 @@ public class ArrayListClass {
 //      5. set(index number, object);
 //      given object will replace with whatever index is;
 
-        list2.set(2, 100); // index 2 (20) is changed with 100
+        list2.set(2, 100);
+        // index 2 (20) is changed with 100
 
         System.out.println("Set method: " +list2);
 
@@ -85,7 +83,7 @@ public class ArrayListClass {
         boolean result = goodGuys.contains("Ridvan");
         System.out.println("Contain method result is: "+result);
 
-//     7.  equals(ArrayList);
+//      7. equals(ArrayList);
 //      boolean value (true or false)
 
         ArrayList<String> badGuys = new ArrayList<>();
@@ -116,8 +114,9 @@ public class ArrayListClass {
         list5.add(5);
         list5.add(6);
 
-        System.out.println(list5);
         list5.remove(1);
+
+
         System.out.println("Remove method "+list5);
 
 
@@ -157,8 +156,8 @@ public class ArrayListClass {
         list6.removeAll(Arrays.asList(1));
         System.out.println("removeAll 1 in the list: "+list6);
 
-//      9. clear();  removes values from arrayList
-
+//      9. clear();
+//      removes values from arrayList
         list2.clear();
 
         System.out.println("Clear method : "+list2);
@@ -196,9 +195,9 @@ public class ArrayListClass {
 //      Converting Array to ArrayList
 
        Integer[] arr9= {1,2,3,4,5,6};
-         System.out.println(Arrays.toString(arr9));
-
        ArrayList<Integer> list10 = new ArrayList<>(Arrays.asList(arr9));
+
+
        list10.add(7);
        list10.add(8);
         System.out.println("Arrays.asList method: "+list10);

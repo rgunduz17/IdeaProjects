@@ -4,8 +4,8 @@ public class if_Else_Statement {
 
 	
 		/*
-		 * if & else:
-		
+
+		if & else:
 			if (condition) {
 					//A			
 					// if block only executed if condition is true

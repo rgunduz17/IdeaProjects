@@ -9,7 +9,7 @@ public class comments {
 		//Single line commands start with double slash
 		System.out.println("Hello World");
 	
-	// Multi line comments start with /* and ends with *?
+		// Multi line comments start with /* and ends with *?
 		
 		/*
 		comment1

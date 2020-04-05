@@ -10,13 +10,10 @@ public class WhileDoWhile {
 //            increment or decrement
 //            }
 
-
         int a= 9;
         while (a>8) {
-
             a--;
-
-            System.out.println("Dogru");
+            System.out.println("True");
         }
 
         String sentence = "I like book, I read book, book book book";
@@ -37,16 +34,6 @@ public class WhileDoWhile {
 //        do {
 //            statement executes first no matter what
 //        } while (condition);
-//
-//
-
-        boolean A= false;
-         do {
-             System.out.println("Hello");
-
-         } while (A) ;
-
-
 
          int x = 1;
          do {
@@ -55,6 +42,14 @@ public class WhileDoWhile {
              }
              x++;
          } while (x <=100);
+
+
+
+        boolean A= false;
+        do {
+            System.out.println("Hello");
+
+        } while (A) ;
 
          System.out.println("*************************");
 

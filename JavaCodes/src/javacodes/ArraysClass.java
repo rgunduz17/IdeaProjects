@@ -20,14 +20,12 @@ public class ArraysClass {
             System.out.println(names [0]);
 
 //      index
-
 //      Array size ;
 //        1. Giving value;
-//                int [] arr = {1,2,3,4,5};
-//
+        int [] arr1 = {1,2,3,4,5};
 //        2. By new key word;
-//                int [] arr = new int[size number];
-
+//           int [] arr = new int[size number];
+        int [] arr2 = new int[5];
 
 
         double [] myArray = {1,2,3,4,5,6,7,8,9};
@@ -42,7 +40,8 @@ public class ArraysClass {
 
         int [] myArray2 = {1,2,3,4,5,6,7,8,9};
 
-            int len = myArray2.length;
+        int len = myArray2.length;
+
         System.out.println(len);
             int HighestIndexNum = myArray2.length -1;
         System.out.println(HighestIndexNum);

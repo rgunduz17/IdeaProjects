@@ -43,7 +43,7 @@ public class StringMethod {
 		System.out.println(C==D);// false, case sensitivity
 		
 		/*
-		 lenght(): it returns the total number of the characters as an int value
+		 length(): it returns the total number of the characters as an int value
 		 
 		 */
 		String LongName="ABCDEFGHIJKLMN";
@@ -77,10 +77,10 @@ public class StringMethod {
 		System.out.println(name3); // cybertek
 		
 		
-		/*
-		 trim(); it's used for removing the unused spaces
-		 	
-		 */
+
+//		 6. trim();
+//		 it's used for removing the unused spaces
+
 		String s1="              hello                  ";	
 			s1=s1.trim();
 		System.out.println(s1); // "hello"
@@ -96,19 +96,16 @@ public class StringMethod {
 		String s4="        Cybertek    School";
 			s4=s4.trim();
 		System.out.println(s4);// "Cybertek    School"
-		
-		/*
-		 substring(beginning index); 
-		 							it creates sub value of String from
-		 							the beginning of the index till the last index
-		 							returns it as a new String value
-		 
-		 
-		 */
+//
+//		 7.  substring(beginning index);
+//		 		it creates sub value of String from
+//		 		the beginning of the index till the last index
+//		 		returns it as a new String value
+
 		String Str="Cybertek School";
-		//			0123456789		
-		
+//					0123456789
 		Str=Str.substring(9); //School
+
 		System.out.println(Str);
 		
 		String Adress = "Mclean Va 22000";
@@ -116,16 +113,15 @@ public class StringMethod {
 		System.out.println(zipcode);
 		
 		
-		/*
-		 substring( beginning index, ending index);
-		 			it creates the sub value of String from 
-		 			beginning index till the ending index
-		 			(end index num will be excluded)
-		 			then returns it as a new String value
-		 
-		 */
+
+//		 7. substring( beginning index, ending index);
+//		 			it creates the sub value of String from
+//		 			beginning index till the ending index
+//		 			(end index num will be excluded)
+//		 			then returns it as a new String value
 		String Name="Hello Cybertek School"; 
 		Name=Name.substring(6, 14); // "Cybertek"
+
 		System.out.println(Name);
 		
 		String fullName="Cybertek School Batch12";
