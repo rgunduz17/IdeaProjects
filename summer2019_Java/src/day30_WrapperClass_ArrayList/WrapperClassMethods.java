@@ -10,9 +10,9 @@ public class WrapperClassMethods {
 	 */
 	public static void main(String[] args) {
 		
-		// MAX_VALUE: returns the maximum value of the primitive
+//		1. MAX_VALUE:
+//		 returns the maximum value of the primitive
 			int maximum = Integer.MAX_VALUE;
-			
 			System.out.println(maximum);
 			
 			double maximumDouble = Double.MAX_VALUE;
@@ -24,8 +24,7 @@ public class WrapperClassMethods {
 			char maximumChar = Character.MAX_VALUE;
 			System.out.println(maximumChar);
 			
-			char ch = 1234;
-			System.out.println(ch);
+
 			
 			
 	// MIN_VALUE: returns min value of primitive
@@ -38,7 +37,9 @@ public class WrapperClassMethods {
 			
 			
 			
-	// parse methods: converts String values to primitives, returns the value as primitive
+	// parse methods:
+	// converts String values to primitives,
+	// returns the value as primitive
 			
 			// parseInt("strValue"): takes the String and converts the String to int primitive 
 			
@@ -142,7 +143,9 @@ public class WrapperClassMethods {
 					
 					
 					
-			// ValueOf methods: converts String value to Wrapper class values, returns wrapper
+//		 ValueOf methods:
+//		 converts String value to Wrapper class values,
+//		 returns wrapper
 					
 					int z = Integer.valueOf("1234"); // unboxing
 					Integer z1 = Integer.valueOf("1234"); // none
@@ -150,12 +153,9 @@ public class WrapperClassMethods {
 					Integer z2 = (int)Integer.valueOf("1234"+3); // Auto-Boxing
 					
 					System.out.println(z2);
-					
-					
-					
-					
+
 				boolean result1 = ! Boolean.valueOf("FALSE"); // unboxing
-			System.out.println(result1); // ValueOf methods ignores the case sensitivity
+				System.out.println(result1); // ValueOf methods ignores the case sensitivity
 					
 					
 					

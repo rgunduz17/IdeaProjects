@@ -57,14 +57,13 @@ public class returnMethodPractice {
 	}
 	
 	
-	
+//				  void
 	public static void sum(int a, int b) {
 		System.out.println(a+b);
 	}
-	
+//				  data type
 	public static int addition(int a, int b) {
 		return a+b;
-		
 	}
 	
 	public static double greaterNumber(double a, double b, double c) { 

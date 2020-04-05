@@ -34,8 +34,9 @@ public class OverloadPractice {
         return 78;
     }
     
-    
-  
-	
-	
+//      NOTE:   return type does not matter
+//                can use with (void or data types) as return type
+//        BENEFITS:   1.increases the readability of the program
+//                    2.used to perform a task efficiently
+//	                  3.common name with slight variation in argument number or types
 }

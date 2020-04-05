@@ -20,9 +20,9 @@ public class SystemExit {
 	
 	public static int number() {
 		if(true) {
-			System.exit(0); // exits all java execution
+			System.exit(0);
+			// exits all java execution
 		}
-		
-		return 5;
+		return 5; // does not execute this line
 	}
 }

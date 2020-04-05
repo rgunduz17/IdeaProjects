@@ -4,17 +4,16 @@ import java.util.Arrays;
 
 public class MethodOverloading {
     
-    // overloading: same method name , different parameters
+//     Overloading: same method name ,
+//                  different parameters
     
     public static void main(String[] args) {
-        
-        int result =  sum(10, 20);
+
+        int result = sum(10, 20);
         System.out.println(result);
-        
-        System.out.println(  sum(10, 20, 30) );
-        
-         System.out.println( sum(0.5, 10.5) )  ;
-         
+        System.out.println(sum(10, 20, 30));
+        System.out.println(sum(0.5, 10.5));
+
          // overload method example: the sort methods of Arrays class, it accepts all data type
          
          
@@ -33,24 +32,25 @@ public class MethodOverloading {
     }
     
     
-    
-    
+//    Method name: sum     parameters are different
     public static int sum (int a, int b) {
+
         return a+b;
     }
-    
     public static int sum (int a, long b, int c) {
+
         return a + (int)b + c;
     }
-    
-    
+    public static double sum (double a, double b) {
+
+        return a+b;
+    }
+
+
     //public static double sum(int a, int b) {  // parameters MUST be different
     //  return a+b;}
     
-    public static double sum(double a, double b) {
-        return a+b;
-    }
-    
+
     // write method called sort, that can sort an int array in descending orther
     public static void Sort(int[] arr) {
                             // [ 1,2,3,4,5};

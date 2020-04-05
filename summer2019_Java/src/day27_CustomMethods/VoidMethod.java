@@ -13,14 +13,9 @@ public class VoidMethod {
 	public static void main(String[] args) {
 		
 		myFirstMethod();
+//		method is grouping a series of statements
+//		to perform specific task benefits: reusable
 		even1To100();
-		/* 
-		 	method is grouping a series of statements to perform specific task
-		 	benefits: reusable
-		 */
-		
-
-		
 	}
 	
 	
@@ -38,18 +33,14 @@ public class VoidMethod {
 	
 	public static void myFirstMethod() {
 		
-	//public static void main(String[] args) {}
-					// methods must be declared within the class
-	
+//		public static void main(String[] args) {}
+//			 methods must be declared within the class
 		System.out.println("Hello World");
-		System.out.println("Hello Cybertek");
-		System.out.println("Hello Khurshed");
-	
 	}
 	
 	
-	
-	
+//		NOTE: void does not accept RETURN keyword
+//			  CANNOT use with (Int/String etc) return types
 	
 	
 	
