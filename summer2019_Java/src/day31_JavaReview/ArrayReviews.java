@@ -98,16 +98,35 @@ public class ArrayReviews {
         // result =  result.replace("-100,", "-100");
         result = result.substring(0, result.lastIndexOf(",") );
         System.out.println(result);
+
+
+
+        int [] arr1 = {50, 40, 30, 60, 10, 20};
+        Arrays.sort(arr1);
+        System.out.println(Arrays.toString(arr1));
+//      [10, 20, 30, 40, 50, 60]
+
+        String [] names = {"Ali", "Veli", "Deli"};
+        System.out.println(Arrays.toString(names));
+//      [Ali, Veli, Deli]
         
-        
-        
-        
-        
-        
-        
-        
-        
-			
+//      variableName[indexNumber]
+        System.out.println(arr1[3]); // 40
+        System.out.println(names[1]); // Veli
+
+
+//      length:
+//          give length of array
+
+        int [] myArray2 = {1,2,3,4,5,6,7,8,9};
+
+        int len = myArray2.length;
+
+        System.out.println(len); //9
+
+
+
+
 	}
 	
 }

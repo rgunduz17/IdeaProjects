@@ -17,7 +17,7 @@ public class ConstructorsPractice {
 	
 	//	ConstructorsPractice obj = new ConstructorsPractice(); does not exist
 			
-		// constructor method is given by default when there is no othr constructor
+		// constructor method is given by default when there is no other constructor
 		
 		
 	//	ConstructorsPractice obj2 = new ConstructorsPractice("Hello");
@@ -30,7 +30,7 @@ public class ConstructorsPractice {
 		
 		
 		ConstructorsPractice obj3 = new ConstructorsPractice(10);
-				// Constructors executution ALWAYS depends on the creation of object
+				// Constructors execution ALWAYS depends on the creation of object
 		
 		
 		method2();

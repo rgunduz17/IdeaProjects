@@ -4,7 +4,7 @@ public class ConstructorMethod {
 	   
     public ConstructorMethod(int a) {
         this(10.5);
-        System.out.println("constructor with argument: "+a);
+        System.out.println("constructor with INT argument: "+a);
         
     }
     
@@ -12,8 +12,8 @@ public class ConstructorMethod {
     //  this(10.5);  // constructor cannot call it self 
         
     //  this(10);  // constructor cannot contain itself
-        System.out.println("constructor with argument: "+a);
-    
+        System.out.println("constructor with DOUBLE argument: "+a);
+
         
     }
     
@@ -26,7 +26,7 @@ public class ConstructorMethod {
     //  this(100);
         this(10.5);
         
-        System.out.println("constrcutor with argument of: "+a);
+        System.out.println("constructor with BOOLEAN argument of: "+a);
     }
     
     

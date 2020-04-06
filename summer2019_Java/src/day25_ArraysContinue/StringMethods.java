@@ -1,5 +1,6 @@
 package day25_ArraysContinue;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class StringMethods {
@@ -12,12 +13,14 @@ public class StringMethods {
     
     */
    public static void main(String[] args) {
-       
+
+//      3. split(str):
+
        String sentence = "Today is great day Good day to learn java";
        
-                String[] arr = sentence.split(" ");
-           System.out.println( Arrays.toString(arr) );  
-           
+       String[] arr = sentence.split(" ");
+       System.out.println( Arrays.toString(arr) );
+//      [Today, is, great, day, Good, day, to, learn, java]
            
            String email ="FirstName_LastName";
                 String[] arr2 =  email.split("_");
@@ -65,17 +68,23 @@ public class StringMethods {
            /*
             toCharArray(): returns a char array from the String
             */
-       
-           	String Str = "java";
-           		char[] ch = Str.toCharArray();
+
+//          4. toCharArray();
+
+           	String str1 = "java";
+           	char[] ch = str1.toCharArray();
            				
-           		System.out.println( Arrays.toString(ch) );
+           	System.out.println( Arrays.toString(ch) );
+//          [j, a, v, a]
 		
 		
-		
-		
-		
-		
+//      Arrays.asList(objectArray);
+//          Converting Array to ArrayList
+		Integer [] arr5 = {1,2,3,4,5,6,7,8,9};
+
+       ArrayList<Integer> list =new ArrayList<>(Arrays.asList(arr5));
+       System.out.println(Arrays.toString(arr5));
+//      [1, 2, 3, 4, 5, 6, 7, 8, 9]
 		
 		
 		

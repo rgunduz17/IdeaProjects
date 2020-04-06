@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="" />
+    <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/javaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summer2019_Java/src/day33_ArrayList/ArrayListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summer2019_Java/src/day35_Constructors/Constructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/ConstructorMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/javacodes/ConstructorMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/test/TestArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/test/TestArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacodes/ConstructorMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacodes/ConstructorMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/Day01_FirstProgramming/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day25_ArraysContinue/StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day25_ArraysContinue/StringMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day30_WrapperClass_ArrayList/ArrayListPractice2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day30_WrapperClass_ArrayList/ArrayListPractice2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day31_JavaReview/ArrayReviews.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day31_JavaReview/ArrayReviews.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day31_JavaReview/ArraysReview_MultiDimensional.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day31_JavaReview/ArraysReview_MultiDimensional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day33_ArrayList/ArayListClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day33_ArrayList/MethodCalls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day33_ArrayList/WarmUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day33_ArrayList/WarmUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day34_Constructors/ArrayListMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day34_Constructors/ArrayListMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day34_Constructors/ConstructorMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day34_Constructors/ConstructorMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day35_Constructors/ConstructorMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day35_Constructors/ConstructorMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day25_ArraysContinue/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day25_ArraysContinue/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day30_WrapperClass_ArrayList/ArrayListPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day30_WrapperClass_ArrayList/ArrayListPractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day31_JavaReview/ArrayReviews.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day31_JavaReview/ArrayReviews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day31_JavaReview/ArraysReview_MultiDimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day31_JavaReview/ArraysReview_MultiDimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day33_ArrayList/ArayListClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day33_ArrayList/MethodCalls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day33_ArrayList/WarmUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day33_ArrayList/WarmUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day34_Constructors/ArrayListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day34_Constructors/ArrayListMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day34_Constructors/ConstructorMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day34_Constructors/ConstructorMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day34_Constructors/ConstructorsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day34_Constructors/ConstructorsPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day35_Constructors/ConstructorMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day35_Constructors/ConstructorMethod.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +77,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestArray">
+  <component name="RunManager" selected="Application.javaTest">
     <configuration name="FindLongestStringOfnWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FindLongestStringOfnWord" />
       <module name="JavaCodes" />
@@ -73,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinOfnNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FindMinOfnNumbers" />
+    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestArray" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TestArray" />
+    <configuration name="javaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.javaTest" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
@@ -113,19 +144,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindMinOfnNumbers" />
       <item itemvalue="Application.FindLongestStringOfnWord" />
       <item itemvalue="Application.FindMaxOfnNumber" />
       <item itemvalue="Application.maxNumber" />
       <item itemvalue="Application.TestArray" />
+      <item itemvalue="Application.javaTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.javaTest" />
         <item itemvalue="Application.TestArray" />
         <item itemvalue="Application.maxNumber" />
         <item itemvalue="Application.FindMaxOfnNumber" />
         <item itemvalue="Application.FindLongestStringOfnWord" />
-        <item itemvalue="Application.FindMinOfnNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -407,8 +438,8 @@
     <state x="-1427" y="45" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585865214202" />
     <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.984@0.23.1920.984" timestamp="1585282618122" />
     <state x="-1427" y="43" key="CommitChangelistDialog2/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060721602" />
-    <state width="1868" height="201" key="GridCell.Tab.0.bottom" timestamp="1586060733163">
-      <screen x="-1920" y="23" width="1920" height="978" />
+    <state width="1868" height="201" key="GridCell.Tab.0.bottom" timestamp="1586139177743">
+      <screen x="0" y="23" width="1920" height="978" />
     </state>
     <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585431910564" />
     <state width="1868" height="203" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606702" />
@@ -417,15 +448,15 @@
     <state width="1868" height="201" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585973123294" />
     <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585276045179" />
     <state width="1868" height="201" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586054668629" />
-    <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1585616777100" />
+    <state width="1868" height="201" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1586139177743" />
     <state width="800" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482217" />
     <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239628" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591334" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429094" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570801" />
     <state width="1868" height="201" key="GridCell.Tab.0.bottom/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060733163" />
-    <state width="1868" height="201" key="GridCell.Tab.0.center" timestamp="1586060733162">
-      <screen x="-1920" y="23" width="1920" height="978" />
+    <state width="1868" height="201" key="GridCell.Tab.0.center" timestamp="1586139177743">
+      <screen x="0" y="23" width="1920" height="978" />
     </state>
     <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585431910562" />
     <state width="1868" height="203" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606701" />
@@ -434,15 +465,15 @@
     <state width="1868" height="201" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585973123293" />
     <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585276045178" />
     <state width="1868" height="201" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586054668627" />
-    <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1585616777099" />
+    <state width="1868" height="201" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1586139177743" />
     <state width="800" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482215" />
     <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239627" />
     <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
     <state width="1868" height="201" key="GridCell.Tab.0.center/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060733162" />
-    <state width="1868" height="201" key="GridCell.Tab.0.left" timestamp="1586060733162">
-      <screen x="-1920" y="23" width="1920" height="978" />
+    <state width="1868" height="201" key="GridCell.Tab.0.left" timestamp="1586139177742">
+      <screen x="0" y="23" width="1920" height="978" />
     </state>
     <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585431910561" />
     <state width="1868" height="203" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606699" />
@@ -451,15 +482,15 @@
     <state width="1868" height="201" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585973123292" />
     <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585276045178" />
     <state width="1868" height="201" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586054668626" />
-    <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1585616777099" />
+    <state width="1868" height="201" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1586139177742" />
     <state width="800" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482213" />
     <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239626" />
     <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
     <state width="1868" height="201" key="GridCell.Tab.0.left/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060733162" />
-    <state width="1868" height="201" key="GridCell.Tab.0.right" timestamp="1586060733162">
-      <screen x="-1920" y="23" width="1920" height="978" />
+    <state width="1868" height="201" key="GridCell.Tab.0.right" timestamp="1586139177743">
+      <screen x="0" y="23" width="1920" height="978" />
     </state>
     <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1585431910563" />
     <state width="1868" height="203" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1584836606701" />
@@ -468,7 +499,7 @@
     <state width="1868" height="201" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585973123293" />
     <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585276045179" />
     <state width="1868" height="201" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586054668628" />
-    <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1585616777100" />
+    <state width="1868" height="201" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1586139177743" />
     <state width="800" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482217" />
     <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239628" />
     <state width="1868" height="196" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />

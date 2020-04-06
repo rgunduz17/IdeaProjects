@@ -13,10 +13,19 @@ public class ArraysReview_MultiDimensional {
         
         int[] arr1D = {1,2,3};
         
-        // index:          0 1 2     0 1 2
+
         int[][] arr2D = { {1,2,3} , {4,5,6}  };
-        // index:            0         1
-        
+
+        // print: { {1,2,3} , {4,5,6}  }
+        System.out.println( arr2D );  // hashcode
+        System.out.println( Arrays.toString( arr2D ));  //hashcodes
+
+//      Arrays.deepToString(variableName):
+//          converts multi dimensional arrays to String
+
+        String str = Arrays.deepToString(arr2D);
+        System.out.println(str); // [[1, 2, 3], [4, 5, 6]]
+
         System.out.println(arr2D.length ); //2
         
         //[index num of 1D arrays][index num of each values]
@@ -28,14 +37,7 @@ public class ArraysReview_MultiDimensional {
         System.out.println( arr2D[1] );  // hashcode
         System.out.println( Arrays.toString( arr2D[1] ));
         
-        // print: { {1,2,3} , {4,5,6}  }
-        System.out.println( arr2D );  // hashcode
-        System.out.println( Arrays.toString( arr2D ));  //hashcodes
-        
-    //  Arrays.deepToString(variableName):  converts multi dimensional arrays to String
-        
-        String str = Arrays.deepToString(arr2D);
-        System.out.println(str);
+
         
         
         char[] ch = {'a', 'b', 'c','d', 'c', 'e'};
