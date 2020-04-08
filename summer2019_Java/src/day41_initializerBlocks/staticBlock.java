@@ -22,7 +22,7 @@ public class staticBlock {
 	
 	static {
 		System.out.println("static block1");
-		//System.out.println("static block B");
+
 	}
 	
 	static {

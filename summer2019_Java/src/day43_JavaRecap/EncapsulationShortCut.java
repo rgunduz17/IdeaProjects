@@ -8,14 +8,14 @@ public class EncapsulationShortCut {
 	private int number = 30;
 	
 	
-	/*
-	 shortcuts for getter and setter:
-	 	1. declare private datas
-	 	2. right click -> source -> Genrate getters and setters
-	 	3. select the instance variables you wanna generate getters and setters with
-	 	4. click generate button
-	 	
-	 */
-	
+
+//	 shortcuts for getter and setter:
+//	 	1. Declare private data
+//	 	2. Click -> Code -> Generate -> getter and setter
+//	 	3. Select the instance variables you wanna
+//	 		generate getters and setters with
+//	 	4. Click generate button
+
+
 
 }

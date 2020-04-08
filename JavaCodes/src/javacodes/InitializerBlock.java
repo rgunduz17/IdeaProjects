@@ -5,13 +5,19 @@ import java.util.Arrays;
 
 public class InitializerBlock {
 
-    //Static initializer block: used for initializing static variables
-    //  executed as soon as class loaded (before main method)
+//    Static initializer block:
+//     Used for initializing static variables
+//     Executed as soon as class loaded
+//          (before main method)
+//
+//          static {
+//              statement;
+//             }
 
-    //      static {
-    //          statement;
-    //         }
+    static {
 
+        System.out.println("static block");
+    }
 
     public InitializerBlock (){
 
@@ -21,10 +27,7 @@ public class InitializerBlock {
     }
 
 
-    static {
 
-        System.out.println("static block");
-    }
 
 
     public static void main(String[] args) {
@@ -83,14 +86,16 @@ public class InitializerBlock {
         students.addAll(Arrays.asList(inClass));
     }
 
-//      instance initializer block : used for initializing instance variables, belongs to object
+//      instance initializer block :
+//      used for initializing instance variables,
+//          belongs to object
+//      Execute before constructor method
 
-    // declaration of instance block:
-
-        //   {
-        //    statement;
-        //     }
-
+//     declaration of instance block:
+//
+//           {
+//            statement;
+//             }
 
     {
         System.out.println("instance block");
