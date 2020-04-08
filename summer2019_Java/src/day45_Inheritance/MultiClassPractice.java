@@ -2,22 +2,20 @@ package day45_Inheritance;
 
 class Data{
 	
-	public String name;
-	private String age; // only visible within the same class
-	String ID;
-	protected String DOB;
+	public String name;	// has public access modifier
+	private String age; // has private access modifier
+	String ID;			// has default access modifier
+	protected String DOB;//has protected access modifier
 	
-	public void Hello() { //public
-		//Hola();
+	public void Hello() { //public access modifier
 		System.out.println("Hello");
 	}
 	
-	private void Hola() { // private
+	private void Hola() { // private access modifier
 		System.out.println("Hola");
 	}
 	
-	void Aloha(){ //default
-		//Hola();
+	void Aloha(){ //default access modifier
 		System.out.println("Aloha");
 	}
 	
@@ -30,17 +28,16 @@ public class MultiClassPractice {
 		Data obj = new Data();
 		System.out.println( obj.name ); // public is visible at everywhere
 	 //	System.out.println( obj.age ); // private is not visible outside the class
-		System.out.println( obj.ID ); // default access modifier is visible to the classes in the same package
-	
+		System.out.println( obj.ID ); // default access modifier is visible to
+											// the classes in the same package
 		/*
 		  if those two classes were located in two different packages,
-		  then the default access modifier i not gonna be visible
+		  then the default access modifier is not gonna be visible
 		 */
 		
 		obj.Hello();
-	//	obj.Hola();
+	//	obj.Hola();  //has private access modifier
 		obj.Aloha();
 		
 	}
-	
 }

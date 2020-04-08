@@ -59,7 +59,23 @@ public class EmployeeInfo {
 			setSSN(SSN);
 			setAge(Age);
 			setSalary(Salary);
+
+//			System.out.println("Employee Name: "+ getName()+
+//					"\nEmployee SSN: "+ getSSN()+
+//					"\nEmployee Age: "+ getAge()+
+//					"\nEmployee Salary: "+ getSalary());
 		}
-		
-	
+
+	//getInfo:
+		public void getInfo(String name,long SSN, byte Age, double Salary){
+
+			System.out.println("Employee Name: "+ getName()+
+							   "\nEmployee SSN: "+ getSSN()+
+								"\nEmployee Age: "+ getAge()+
+								"\nEmployee Salary: "+ getSalary());
+
+		}
+
+
+
 }

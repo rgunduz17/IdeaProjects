@@ -11,7 +11,10 @@ public class LogIn {
         //  System.out.println( Ftih.username );
         //  System.out.println( Ftih.password );
         
-        // read:
+        // write:
+            Ftih.setUsername("fatih");
+            Ftih.setPassword("12345");
+        //read:
             System.out.println(  Ftih.getUsername()  );
             System.out.println(  Ftih.getPassword() );
         
