@@ -1,7 +1,7 @@
 package day37_classAndObject;
 
 	public 				class 		Car {
-  // access modifier
+
 	/*
 	 car
     	data/attribute
@@ -10,7 +10,7 @@ package day37_classAndObject;
     	actions:
         	start, driver, accelerate, stop, drift, brake, get ticket..
 	 */
-	
+//		instance variables
 		String 	Model;
 		int 	Year;
 		String 	Color;
