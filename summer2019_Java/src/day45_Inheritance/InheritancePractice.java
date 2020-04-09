@@ -9,10 +9,10 @@ public class InheritancePractice extends ParentClass {
 	 */
 	
 	public static void main(String[] args) {
-	//	System.out.println(username); //private can not be inheritable
+//		System.out.println(username);
+//		 private can not be inheritable
 		System.out.println(password);
 		System.out.println(age);
 		System.out.println(salary);
 	}
-	
 }
