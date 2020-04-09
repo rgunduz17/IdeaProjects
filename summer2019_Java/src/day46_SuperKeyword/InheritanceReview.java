@@ -69,3 +69,6 @@ public class InheritanceReview extends Data{
 	
 	
 }
+
+
+
