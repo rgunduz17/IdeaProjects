@@ -2,35 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/SleepIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/backAround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/diff21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/front22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/front3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/frontBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/makes10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/missingChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/monkeyTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/nearHundred.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/notString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/or35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/parrotTrouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingBat/Warmup1/posNeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ArrayTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../gmail.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test/java/Gmail/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test/java/Gmail/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/test/java/Gmail/SendEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArrayReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/ArrayToArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/CodingBat/String2RepeatSeparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/test/replIt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingBat/String2RepeatSeparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/String2RepeatSeparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/InterviewQuestions/ReversedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/InterviewQuestions/ReversedString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/ReversedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReversedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ArrayTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ArrayTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +53,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.monkeyTrouble">
-    <configuration name="backAround" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingBat.Warmup1.backAround" />
+  <component name="RunManager" selected="Application.ArrayToArrayList">
+    <configuration name="ArrayReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ArrayReplace" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingBat.Warmup1.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="front22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingBat.Warmup1.front22" />
+    <configuration name="ArrayTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ArrayTest2" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingBat.Warmup1.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="front3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingBat.Warmup1.front3" />
+    <configuration name="ArrayToArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ArrayToArrayList" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingBat.Warmup1.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversedString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ReversedString" />
+      <module name="JavaCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,33 +119,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="or35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingBat.Warmup1.or35" />
-      <module name="JavaCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CodingBat.Warmup1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.front3" />
-      <item itemvalue="Application.backAround" />
-      <item itemvalue="Application.or35" />
-      <item itemvalue="Application.front22" />
       <item itemvalue="Application.monkeyTrouble" />
+      <item itemvalue="Application.ArrayTest2" />
+      <item itemvalue="Application.ReversedString" />
+      <item itemvalue="Application.ArrayReplace" />
+      <item itemvalue="Application.ArrayToArrayList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayToArrayList" />
+        <item itemvalue="Application.ArrayReplace" />
+        <item itemvalue="Application.ArrayTest2" />
+        <item itemvalue="Application.ReversedString" />
         <item itemvalue="Application.monkeyTrouble" />
-        <item itemvalue="Application.front22" />
-        <item itemvalue="Application.or35" />
-        <item itemvalue="Application.backAround" />
-        <item itemvalue="Application.front3" />
       </list>
     </recent_temporary>
   </component>
@@ -452,8 +429,8 @@
     <state x="-1427" y="45" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585865214202" />
     <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.984@0.23.1920.984" timestamp="1585282618122" />
     <state x="-1427" y="43" key="CommitChangelistDialog2/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060721602" />
-    <state width="1868" height="171" key="GridCell.Tab.0.bottom" timestamp="1586573615628">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1167" height="171" key="GridCell.Tab.0.bottom" timestamp="1586588046748">
+      <screen x="-1920" y="23" width="1920" height="978" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721349" />
     <state width="906" height="181" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020270" />
@@ -464,14 +441,14 @@
     <state width="1388" height="171" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1586532883645" />
     <state width="1868" height="201" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586054668629" />
     <state width="1868" height="181" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1586401805791" />
-    <state width="800" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482217" />
+    <state width="1868" height="171" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1586576639091" />
     <state width="1868" height="225" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239628" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591334" />
     <state width="1868" height="196" key="GridCell.Tab.0.bottom/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429094" />
     <state width="1868" height="208" key="GridCell.Tab.0.bottom/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570801" />
-    <state width="1868" height="201" key="GridCell.Tab.0.bottom/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060733163" />
-    <state width="1868" height="171" key="GridCell.Tab.0.center" timestamp="1586573615624">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1167" height="171" key="GridCell.Tab.0.bottom/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586588046748" />
+    <state width="1167" height="171" key="GridCell.Tab.0.center" timestamp="1586588046747">
+      <screen x="-1920" y="23" width="1920" height="978" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721347" />
     <state width="906" height="181" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020268" />
@@ -482,14 +459,14 @@
     <state width="1388" height="171" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1586532883643" />
     <state width="1868" height="201" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586054668627" />
     <state width="1868" height="181" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1586401805789" />
-    <state width="800" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482215" />
+    <state width="1868" height="171" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1586576639090" />
     <state width="1868" height="225" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239627" />
     <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.center/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.center/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
-    <state width="1868" height="201" key="GridCell.Tab.0.center/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060733162" />
-    <state width="1868" height="171" key="GridCell.Tab.0.left" timestamp="1586573615623">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1167" height="171" key="GridCell.Tab.0.center/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586588046747" />
+    <state width="1167" height="171" key="GridCell.Tab.0.left" timestamp="1586588046745">
+      <screen x="-1920" y="23" width="1920" height="978" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721342" />
     <state width="906" height="181" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020267" />
@@ -500,14 +477,14 @@
     <state width="1388" height="171" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1586532883643" />
     <state width="1868" height="201" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586054668626" />
     <state width="1868" height="181" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1586401805787" />
-    <state width="800" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482213" />
+    <state width="1868" height="171" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1586576639089" />
     <state width="1868" height="225" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239626" />
     <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.left/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.left/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570799" />
-    <state width="1868" height="201" key="GridCell.Tab.0.left/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060733162" />
-    <state width="1868" height="171" key="GridCell.Tab.0.right" timestamp="1586573615626">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="1167" height="171" key="GridCell.Tab.0.left/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586588046745" />
+    <state width="1167" height="171" key="GridCell.Tab.0.right" timestamp="1586588046747">
+      <screen x="-1920" y="23" width="1920" height="978" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721349" />
     <state width="906" height="181" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020269" />
@@ -518,12 +495,12 @@
     <state width="1388" height="171" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1586532883644" />
     <state width="1868" height="201" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1586054668628" />
     <state width="1868" height="181" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1586401805790" />
-    <state width="800" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1585687482217" />
+    <state width="1868" height="171" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.980@-1920.23.1920.1057" timestamp="1586576639090" />
     <state width="1868" height="225" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283239628" />
     <state width="1868" height="196" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1584993591333" />
     <state width="1868" height="196" key="GridCell.Tab.0.right/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584914429093" />
     <state width="1868" height="208" key="GridCell.Tab.0.right/-1920.23.1920.978/0.0.1920.1080@0.0.1920.1080" timestamp="1584756570800" />
-    <state width="1868" height="201" key="GridCell.Tab.0.right/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060733162" />
+    <state width="1167" height="171" key="GridCell.Tab.0.right/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586588046747" />
     <state width="1868" height="250" key="GridCell.Tab.1.bottom" timestamp="1586313723378">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
