@@ -1,4 +1,4 @@
-package CodingBat;
+package InterviewQuestions;
 
 public class String2RepeatSeparator {
 
