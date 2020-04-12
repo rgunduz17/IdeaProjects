@@ -23,28 +23,20 @@ public class Bank {
 
 
 class BankOfAmerica extends Bank{
-	
 	public void InterestRate() {
 		System.out.println("5 percent");
 	}
-	
 }
 
 class Chase extends Bank{
-	
-	@Override
+	@Override	// to verify the method override or not
 	public void InterestRate() {
 		System.out.println("6 percent");
 	}
-	
-	
 }
 
 class CapitalOne extends Bank{
-	
 	public void InterestRate() {
 		System.out.println("4 percent");
 	}
-	
-	
 }

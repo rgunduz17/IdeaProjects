@@ -1,68 +1,39 @@
 package day48_MethodOverRiding;
 
-class WebDriver{
-	public void get() {
-		System.out.println("Opens browser");
-	}
-	
+class WebDriver {
+    public void get() {	// this method will be override
+        System.out.println("Opens browser");
+    } // method with final CANNOT be override
 }
+final class ChromeBrowser extends WebDriver {
+    @Override  // override method
+    public void get() {
+        System.out.println("Opens chrome browser");
+    }
 
-class ChromeBrowser extends WebDriver{
-	
-	@Override
-	public void get() {
-		System.out.println("Opens chrome browser");
+	public final void add(int a, int b) {
+		System.out.println(a + b);
 	}
-	
-}
-
-class FireFoxDriver extends WebDriver{
-	
-	@Override
-	public void get() {
-		System.out.println("Opens firefox browser");
+	public static double add(double x, double y) {
+		return x + y;
 	}
-	
-	
-}
-
+}//	methods with final can be overload
 
 public class Practice {
-	
-	final static int num2 = 200;
-	
-	public static void main(String[] args) {
-		
-		System.out.println(num2); // 0
-		
-		ChromeBrowser driver1 = new ChromeBrowser();
-					driver1.get(); // chrome browser
-		
-		FireFoxDriver driver2 = new FireFoxDriver();
-					driver2.get(); // fire fox browse
-		
-					
-		final int num;
-			num = 100;
-		//	num = 200; // final variables cannot be reassigned
-			
-		final String DOB = "11/04/2019";
-		//			DOB = "11/05/2019";
-		
-		
-		
-	}
-	
+    public static void main(String[] args) {
+        ChromeBrowser driver1 = new ChromeBrowser();
+        driver1.get(); // Opens chrome browser
+    }
 }
 
 
-final class Erhan extends Practice{ // immutable
+final class Erhan extends Practice { // immutable
 
-	private final String PassWord = "cybertekbatch12";
-	
-	public String getPassWord() {
-		return PassWord;
-	}
+    private final String PassWord = "cybertekbatch12";
+
+    public String getPassWord() {
+        return PassWord;
+    }
 	
 	/*
 	public void setPassWord(String PassWord) {
@@ -70,10 +41,8 @@ final class Erhan extends Practice{ // immutable
 	}
 	we cannot generate setter for final variable. final variables are constant
 	*/
-	
-	
-	
-	
+
+
 }
 
 
