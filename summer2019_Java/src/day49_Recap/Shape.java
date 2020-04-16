@@ -32,7 +32,6 @@ public class Shape {
         
         Rectangle rectangle2 = new Rectangle(30, 40);
                 rectangle2.Area();
-                
                 rectangle2.perimeter();
                 rectangle2.capacity(); //0
                 

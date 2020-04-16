@@ -28,7 +28,7 @@ public class Cylinder extends Shape{
     
     @Override
     protected void capacity() {
-        double capacity = (3.14 * radius * radius * height);
+        double capacity = (PI * radius * radius * height);
         System.out.println("Capacity of the cylinder is "+capacity);
     }
     

@@ -1,6 +1,7 @@
 package day49_Recap;
+// abstract class
 public abstract class Animal {
-    
+    // abstract methods
     public abstract void eat();
     
     public abstract void sleep();   
@@ -14,7 +15,7 @@ class Cat extends Animal {
     
     @Override
     public void eat() {
-        System.out.println("cat east fish");
+        System.out.println("cat eats fish");
     }
     
     @Override

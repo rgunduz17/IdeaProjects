@@ -1,4 +1,5 @@
 package day49_Recap;
+
 public class Rectangle extends Shape{
     
     double length;
@@ -18,6 +19,6 @@ public class Rectangle extends Shape{
     @Override
     protected void perimeter() {
         double perimeter = (length+width) * 2;
-        System.out.println("primeter of the rectangle is "+perimeter);
+        System.out.println("perimeter of the rectangle is "+perimeter);
     }
 }
