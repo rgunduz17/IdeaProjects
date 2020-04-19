@@ -19,7 +19,7 @@ public class StringMethod {
 		System.out.println(R3);
 		
 		/*
-		 Methods: 
+		 day27_CustomMethods.Methods:
 		 	1. concat, 2. Length, 3. charAt, 4. toUpperCase, 
 		 	5. toLowerCase
 		 	

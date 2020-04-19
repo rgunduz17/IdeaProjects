@@ -2,35 +2,25 @@ package day54_Polymorphism;
 
 
 interface InterFace{
-	
-	abstract void get();
-	
+	 void get();
 }
-
 interface InterFace2 extends InterFace{
-	
-	abstract void frame();
-	
+	 void frame();
 }
-
-abstract class AbsClass{
-	
-}
-
+abstract class AbsClass{}
+//	   class extends class implements interface/s
 public class Test2 extends AbsClass implements InterFace, InterFace2{
 
 	public static void main(String[] args) {
-		InterFace obj = new Test2();
+		InterFace obj = new Test2(); // polymorphism
 		obj.get();	// chrome
-		
-		InterFace2 obj2 = new Test2();
+	// referenceType decides what is accessible or can be used
+		InterFace2 obj2 = new Test2(); // polymorphism
 					obj2.frame(); // frame	
 					obj2.get();
 					
 		AbsClass obj3 = new Test2();
-		
 	}
-	
 	@Override
 	public void get() {
 		System.out.println("Chrome browser");
@@ -40,5 +30,4 @@ public class Test2 extends AbsClass implements InterFace, InterFace2{
 	public void frame() {
 		System.out.println("frame");
 	}
-	
 }

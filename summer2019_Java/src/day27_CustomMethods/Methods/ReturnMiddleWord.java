@@ -1,4 +1,4 @@
-package Methods;
+package day27_CustomMethods.Methods;
 
 public class ReturnMiddleWord {
 

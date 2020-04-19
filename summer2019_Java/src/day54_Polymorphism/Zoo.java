@@ -60,17 +60,20 @@ public class Zoo {
 
 //      Polymorphism: objects to behave in multiple forms
 //                    occurs when the super class/interface is reference type
-//                      and object is created from the classes that
+//                      and object is created from non abstract classes that
 //                         has IS A relation with the super class
 
 //                  classA          object          =        new classA();
 //                  referenceType   referenceName            object
 
+//                  object MUST be created from NON ABSTRACT class
+//                  object MUST be concrete
+
 //      2 IMPORTANT RULES:
 //              1. reference type decides what is accessible and what can be used
 //              2. reference type can be parent class or interface, and objects can be any sub class
 
-//      IS A relation: is inherited relationship between classes
+//     IS A relation: is inherited relationship between classes
 //                  Ex: class dog extends Animal
 //                      class Husky extends Dog
 //                      Dog is an Animal
