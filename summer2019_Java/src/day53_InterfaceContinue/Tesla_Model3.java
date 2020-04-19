@@ -4,7 +4,7 @@ public class Tesla_Model3 implements Cars, ElectricVehicles {
 
 	@Override
 	public void start() {
-		System.out.println("Voice Conttol \"Tesla Start   \" ");
+		System.out.println("Voice Control \"Tesla Start   \" ");
 	}
 
 	@Override

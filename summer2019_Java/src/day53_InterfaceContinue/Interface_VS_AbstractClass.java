@@ -10,15 +10,18 @@ public interface Interface_VS_AbstractClass {
 	static int num = 300;
 	
 	//static {}
-		// variables in interface are static and final variables can not be reassigned
+	// variables in interface are static
+	//   and final variables can not be reassigned
 	
 	
 	
 	public abstract void method1();
 	public abstract int method2();
-	
-	 void method3(); // public
-	 void method4(); // public
+
+
+	// abstract keyword given by default
+	 void method3(); // ==> public abstract void method3();
+	 void method4();
 	
 	public default void mm() {
 		// predicate
@@ -52,7 +55,7 @@ class Test implements Interface_VS_AbstractClass{
 	@Override
 	public void method1() {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
@@ -64,13 +67,13 @@ class Test implements Interface_VS_AbstractClass{
 	@Override
 	public void method3() {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
 	public void method4() {
 		// TODO Auto-generated method stub
-		
+
 	}
-	
+
 }

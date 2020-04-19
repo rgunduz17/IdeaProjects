@@ -19,7 +19,7 @@ public class Toyota_Hybrid implements Cars, ElectricVehicles, GasVehicles{
 
 	@Override
     public void start() {
-        System.out.println("push strt button");
+        System.out.println("push start button");
     }
 	
 	@Override
