@@ -39,13 +39,15 @@ public class PolymorphisimReview {
 		//	obj2.methodB();
 			
 		//	B obj3 = new A(); //child class can not be the reference to parent class 
-			
+
 			
 		//	C onj4 = new C(); // abstract class is not concrete
 			
 			C obj5 = new D();
 			
 			E obj6 = new D();
+
+
 			
 		//	D obj7 = new E(); // we cannot create object from interface 
 			
