@@ -1,5 +1,7 @@
 package day23_Arrays;
 
+import java.util.Arrays;
+
 public class ArraysClass {
 	public static void main(String[] args) {
 	        
@@ -61,11 +63,32 @@ public class ArraysClass {
 	            System.out.println(HighestIndexNum2);
 	            
 	            
+			int [] myArray1= {9,8,7,6,5,4,3,2,1};
+
+			int [] myArray2 = Arrays.copyOf(myArray1,myArray1.length);
+			Arrays.sort(myArray2);
+		System.out.println(Arrays.toString(myArray2));
+
+		int [] myArray3 = new int[myArray2.length];
+		for(int i=0; i< myArray2.length; i++) {
+			int temp= myArray2[i];
+			myArray2[i]= myArray3[myArray2.length-1-i];
+			myArray3[myArray2.length-1-i]=temp;
+		}
+		System.out.println(Arrays.toString(myArray3));
 	
-	
-	
-	
-	
+
+		// reverse without creating a new array
+
+		for(int i=0; i < myArray3.length/2; i++){
+			int temp = myArray3[i];
+			myArray3[i]= myArray3[myArray3.length-1-i];
+			myArray3[myArray3.length-1-i]= temp;
+			System.out.print(myArray3[i]);
+			System.out.print(myArray3[myArray3.length-1-i]);
+		}
+
+		System.out.println(Arrays.toString(myArray3));
 	
 	
 	

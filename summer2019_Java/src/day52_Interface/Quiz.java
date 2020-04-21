@@ -67,11 +67,11 @@ public class Quiz extends abstractB{
         
         
     }
-    
-    
-    
-    
-    
-    
-    
+
+
+    static class C extends B {
+        public C() {
+            System.out.print("C ");
+        }
+    }
 }
