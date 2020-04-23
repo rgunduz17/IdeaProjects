@@ -1,5 +1,7 @@
 package day62_Collections;
 
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,7 +17,7 @@ public class SetInterface {
 	public static void main(String[] args) {
 		
 		List<Integer> list1 = new ArrayList<Integer>();
-				list1.addAll(Arrays.asList(100,100,100));
+			list1.addAll(Arrays.asList(100,100,100));
 			System.out.println(list1); // [100,100,100]
 			System.out.println(list1.get(0));
 		
@@ -24,7 +26,7 @@ public class SetInterface {
 					st1.add(100);
 					st1.add(100);
 			System.out.println(st1);		
-	//	System.out.println(st1.get(0));  //set does not have index number
+	//	System.out.println(st1.get(0));  ////
 			
 			System.out.println("=========================");
 			
@@ -36,9 +38,9 @@ public class SetInterface {
 				hashset.add(3);
 				hashset.add(1);
 				hashset.add(100);
-				
+				// HashSet keeps mixed, does not accept same values
 				System.out.println(hashset);
-					
+		System.out.println("=========================");
 		Set<Integer> linkedhashset = new LinkedHashSet<Integer>();
 				linkedhashset.add(100);
 				linkedhashset.add(10);
@@ -47,7 +49,7 @@ public class SetInterface {
 				System.out.println(linkedhashset); // LinkedHasSet keeps order as it is
 			// doubly linked: ass() & remove() are faster than HashSet
 
-				
+		System.out.println("=========================");
 		SortedSet<String> treeset = new TreeSet<String>();
 					treeset.add("Z");
 					treeset.add("Y");
@@ -67,11 +69,12 @@ public class SetInterface {
 			//solution:			
 			List<Integer> list2 = new ArrayList<>();
 				list2.addAll(Arrays.asList(10,9,8,7,6,10,10,10,10));
-					
+			System.out.println("TREESET");
 			TreeSet<Integer> ts = new TreeSet<>(list2);
 			System.out.println(ts);
-		
-			
+//			System.out.println("HASHSET");
+//			Set<Integer> hashset2 = new HashSet<Integer>(list2);
+//			System.out.println(hashset2);
 	/*
 	 		String "AAAABBBCCCDDD";
 	 		write program that can remove duplicates from string
@@ -79,21 +82,26 @@ public class SetInterface {
 	 */
 			String str = "ZZZZYYYXXAAAABBBCCCDDD"; //ZYXABCD
 			String[] arr = 	str.split("");
-			System.out.println( Arrays.toString(arr) );
+			System.out.println("Arrays.ToString: "+ Arrays.toString(arr) );
 			
-	//TreeSet<String> restroom = new TreeSet<>(Arrays.asList(arr));
-	
-	LinkedHashSet<String> restroom = new LinkedHashSet<>(Arrays.asList(arr));		
-	String result = restroom.toString().replace("[", "").replace("]", "").replace(", ", "");
+	TreeSet<String> restroom = new TreeSet<>(Arrays.asList(arr));
+	System.out.println("Treeset: "+restroom);
+
+	LinkedHashSet<String> restroom2 = new LinkedHashSet<>(Arrays.asList(arr));
+		System.out.println("LinkedHashSet: "+ restroom);
+	String result = restroom2.toString().replace("[", "").replace("]", "").replace(", ", "");
 				
-						System.out.println(result);	
+	System.out.println("LinkedHashSet (removed [ ] , : "+result);
 						
 			// second solution
-			   String str2 =   new LinkedHashSet<String>(Arrays.asList(arr)).toString();
-			   System.out.println(str2);
-					
-					
-					
+	String str2 =   new LinkedHashSet<String>(Arrays.asList(arr)).toString();
+	System.out.println(str2);
+		System.out.println("==============");
+
+
+
+
+
 					
 					
 					

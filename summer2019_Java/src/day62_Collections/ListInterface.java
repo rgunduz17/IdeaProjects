@@ -32,25 +32,27 @@ public class ListInterface {
 					linkedlist.add(30);
 					linkedlist.remove(1);
 					
-			System.out.println(linkedlist);		
+			System.out.println("linkedlist: "+linkedlist);
 			
 		System.out.println("=====================================");
 		
 		String[] arr = {"A","B","B"};
 				
-		List<String> NotLinked = new ArrayList<>(Arrays.asList(arr));
-		
+		List<String> notLinked = new ArrayList<>(Arrays.asList(arr));
+		notLinked.add("D");
 		LinkedList<String> linked = new LinkedList<>(Arrays.asList(arr));
-		
-			System.out.println(linked);
-			
-			
+		linked.add("C");
+		System.out.println("LIST: "+notLinked);
+		System.out.println("LINKLIST: "+linked);
+
+		System.out.println("=======================================");
+		System.out.println("VECTOR");
 			Vector<Integer> vt = new Vector<Integer>();
 					vt.add(1);
+					vt.add(2);
+		System.out.println(vt);
 					
-					
-					
-System.out.println("=======================================");
+		System.out.println("=======================================");
 
 			Stack<Integer> st = new Stack<>();
 				st.add(1);
@@ -59,7 +61,7 @@ System.out.println("=======================================");
 				st.add(4);
 				System.out.println( st );
 				
-				System.out.println( st.pop() ); //LIFO
+				System.out.println( st.pop() ); // removes last item from stack
 				
 				System.out.println( st );
 				
