@@ -7,8 +7,4 @@ public class Quiz {
 
     }
 
-    // 1. command K button
-    // 2. command shift K buttons
-
-
 }
