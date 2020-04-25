@@ -11,6 +11,8 @@ public class QuestionOfTheDay {
 
 
 
+    
+
     // creating a method to divide a to b
     static int division(int a, int b)
     {
