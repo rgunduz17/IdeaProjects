@@ -2,41 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../summer2019_Java/src/day23_Arrays/arrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../summer2019_Java/src/day33_ArrayList/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../target/test-classes/Gmail/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../target/test-classes/Gmail/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/META-INF/JavaCodes.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/META-INF/summer2019_Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/Methods/InitializerBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/Methods/MethodsPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/Methods/Mustafa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/Methods/ReturnMiddleWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/Methods/ReverseArrayWordByWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day23_Arrays/ArraysClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day23_Arrays/ArraysClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day33_ArrayList/ArrayListMethodsPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day33_ArrayList/ArrayListMethodsPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day49_Recap/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day49_Recap/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day52_Interface/Quiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day52_Interface/Quiz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/InterfacePractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/InterfacePractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/Interface_VS_AbstractClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/Interface_VS_AbstractClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/Tesla_Model3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/Tesla_Model3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/Toyota_Hybrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day53_InterfaceContinue/Toyota_Hybrid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day54_Polymorphism/AbsClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day54_Polymorphism/AbsClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day54_Polymorphism/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day54_Polymorphism/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/F.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/F.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/PolymorphisimReview.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/PolymorphisimReview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/UpCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/out/production/summer2019_Java/day56_Polymorphisim/UpCasting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day23_Arrays/ArraysClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day23_Arrays/ArraysClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day33_ArrayList/ArrayListMethodsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day33_ArrayList/ArrayListMethodsPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../summer2019_Java/src/day52_Interface/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../summer2019_Java/src/day52_Interface/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Layouts/Layouts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoList/TodoListItems.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoList/src/sample/DialogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoList/src/sample/datamodel/TodoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoList/src/sample/datamodel/TodoItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToDoList/src/sample/todoItemDialog.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +51,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -563,14 +543,15 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="495" y="144" key="NewModule_or_Project.wizard/-1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1584913362131" />
-    <state x="0" y="23" width="1125" height="976" key="SettingsEditor" timestamp="1587425946197">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state x="-1920" y="23" width="1125" height="976" key="SettingsEditor" timestamp="1587846472428">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="320" y="19" key="SettingsEditor/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1584373800418" />
     <state x="795" y="0" key="SettingsEditor/-1920.23.1920.1057/0.0.1920.1080@0.0.1920.1080" timestamp="1584817703707" />
     <state x="96" y="24" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1584911626678" />
     <state x="-1920" y="23" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1585964751500" />
     <state x="96" y="24" width="1125" height="976" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585088504066" />
+    <state x="-1920" y="23" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.978@-1920.23.1920.1057" timestamp="1587846472428" />
     <state x="0" y="23" key="SettingsEditor/-1920.23.1920.1057/0.23.1920.982@0.23.1920.982" timestamp="1585674599765" />
     <state x="0" y="23" key="SettingsEditor/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1587425946197" />
     <state x="459" y="188" key="Vcs.Push.Dialog.v2" timestamp="1586997044366">
