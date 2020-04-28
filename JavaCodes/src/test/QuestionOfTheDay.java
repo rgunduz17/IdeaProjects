@@ -9,10 +9,6 @@ public class QuestionOfTheDay {
      */
 
 
-
-
-    
-
     // creating a method to divide a to b
     static int division(int a, int b)
     {
@@ -58,7 +54,7 @@ public class QuestionOfTheDay {
     // Driver program
     public static void main (String[] args)
     {
-        int a = 21, b = 3 ;
+        int a = -21, b = -3 ;
         System.out.println( "Division of "+ a+ " to "+b +" is: "+division(a, b) );
 
     }
