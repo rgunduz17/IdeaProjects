@@ -11,7 +11,7 @@ public class testtest2123 {
         String[] words = {input.nextLine(),input.nextLine(),input.nextLine(),input.nextLine(),input.nextLine()};
 
 
-        //TODO: Write your code below
+
         String firstAndLast="";
 
         for(String word: words){

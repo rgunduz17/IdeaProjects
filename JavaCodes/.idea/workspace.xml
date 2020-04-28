@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -114,11 +132,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FrequencyTest" />
-      <item itemvalue="Application.QuestionOfTheDay" />
-      <item itemvalue="Application.Quiz" />
-      <item itemvalue="Application.WarmUpSolution" />
       <item itemvalue="Application.replit146" />
+      <item itemvalue="Application.FrequencyTest" />
+      <item itemvalue="Application.WarmUpSolution" />
+      <item itemvalue="Application.Quiz" />
+      <item itemvalue="Application.QuestionOfTheDay" />
     </list>
     <recent_temporary>
       <list>
