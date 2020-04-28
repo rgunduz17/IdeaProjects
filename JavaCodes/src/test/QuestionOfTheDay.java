@@ -59,7 +59,7 @@ public class QuestionOfTheDay {
 
     }
     
-    System.out.println("This line is edited in github.com");
+
       
 }
 

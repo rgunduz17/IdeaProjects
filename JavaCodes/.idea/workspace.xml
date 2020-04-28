@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/QuestionOfTheDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/QuestionOfTheDay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,11 +114,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.replit146" />
       <item itemvalue="Application.FrequencyTest" />
-      <item itemvalue="Application.WarmUpSolution" />
-      <item itemvalue="Application.Quiz" />
       <item itemvalue="Application.QuestionOfTheDay" />
+      <item itemvalue="Application.Quiz" />
+      <item itemvalue="Application.WarmUpSolution" />
+      <item itemvalue="Application.replit146" />
     </list>
     <recent_temporary>
       <list>
@@ -396,6 +395,17 @@
     </task>
     <option name="localTasksCounter" value="37" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
