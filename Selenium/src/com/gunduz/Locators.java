@@ -114,8 +114,8 @@ public class Locators {
                              attribute  value
      <a class="button secondary" id="signup_link" href="https://www.salesforce.com/form/trial/freetrial.jsp?d=70130000000Enus">Try for Free</a>
 
-                #Value
-            Ex:  #signup_link
+                tagName#(IdValue)
+            Ex:  a#signup_link
 
          */
 

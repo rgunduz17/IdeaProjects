@@ -8,6 +8,7 @@ public class ChromeBrowser {
     public static void main(String[] args) {
         // Set Property by using driver and path(copy the path where you save the driver for browser)
         System.setProperty("webdriver.chrome.driver", "//Users//ridvangunduz//Desktop//selenium//chromedriver");
+
         // 1. key value for browsers: "webdriver.(browsername).driver"
         // 2. path: do not forget to put double slash // between pathways
 
@@ -19,6 +20,8 @@ public class ChromeBrowser {
         //  Download ChromeDriver from https://sites.google.com/a/chromium.org/chromedriver/downloads
 
         driver.get("http://google.com");  // Goes to given url
+
+
         System.out.println(driver.getTitle()); // gets website page title
 
         System.out.println(driver.getCurrentUrl());  // validate web address

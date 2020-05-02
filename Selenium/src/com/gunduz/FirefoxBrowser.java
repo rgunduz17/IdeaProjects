@@ -18,7 +18,6 @@ public class FirefoxBrowser {
         //  Download FirefoxDriver from https://github.com/mozilla/geckodriver/releases
 
         driver.get("http://google.com");
-        System.out.println(driver.getTitle());
-
+        System.out.println(driver.getTitle()); // gives page title: Google
     }
 }
