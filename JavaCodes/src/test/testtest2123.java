@@ -12,6 +12,7 @@ public class testtest2123 {
 
 
 
+
         String firstAndLast="";
 
         for(String word: words){

@@ -1,9 +1,15 @@
 package InterviewQuestions;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class UniqueValue {
 
     public static void main(String[] args) {
+        String words= "one two three";
 
+        String [] arr = words.split(" ");
+        int a= arr.length;
+        System.out.println(a);
 
         String uniqueCharacters = UniqueVal("AMAAABBBASSACCSFG");
         System.out.println(uniqueCharacters);
@@ -31,4 +37,7 @@ public class UniqueValue {
 
         return Unique;
     }
+
+
+
 }
