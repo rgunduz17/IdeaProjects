@@ -1,10 +1,10 @@
-package SeleniumTest;
+package com.gunduz.SeleniumCommands;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
-public class Commands3 {
+public class NavigationCommands {
 
     public static void main(String[] args) {
 
