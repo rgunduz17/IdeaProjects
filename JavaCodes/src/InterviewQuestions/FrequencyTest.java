@@ -42,6 +42,7 @@ public class FrequencyTest {
             }
 
             result += RemoveDuplicates.substring(j, j + 1) + count;
+           // result += RemoveDuplicates.charAt(j)+""+ count;
 
         }
 

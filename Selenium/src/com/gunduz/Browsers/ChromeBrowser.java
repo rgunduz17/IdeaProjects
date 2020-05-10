@@ -44,4 +44,12 @@ public class ChromeBrowser {
     //        driver.quit();   // it closes all the browsers opened by Selenium script
 
     }
+
+//    public static void Chrome(){
+//        System.setProperty("webdriver.chrome.driver", "//Users//ridvangunduz//Desktop//selenium//chromedriver");
+//        WebDriver driver = new ChromeDriver();
+//        driver.manage().window().maximize();
+//        driver.manage().deleteAllCookies();
+//        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//    }
 }

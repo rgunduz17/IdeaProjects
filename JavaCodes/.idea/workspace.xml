@@ -20,41 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../EchoClient/EchoClient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoClient/out/production/EchoClient/com/gunduz/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoServer/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoServer/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoServer/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoServer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoServer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoServer/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoServer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoServer/EchoServer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EchoServer/out/production/EchoServer/com/gunduz/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/UniqueNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/UniqueWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/appearTwice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AddToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/mergeStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/newTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/.idea/libraries/sqlite_jdbc_3_30_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/TestDB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestDB/testjava.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/MaximazingWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/TakeMultipleScreenShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/TakeScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestCases/TakeAScreenShotTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/InterviewQuestions/UniqueValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/InterviewQuestions/UniqueValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/test/QuestionOfTheDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/test/QuestionOfTheDay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/test/testtest2123.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/test/testtest2123.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/UniqueValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/UniqueValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/ArrayReversed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/ArrayReversed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/testtest2123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testtest2123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring2020B18_Java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring2020B18_Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/FrequencyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/FrequencyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/Browsers/ChromeBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/Browsers/ChromeBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/HandlingHTTPS_Certifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/HandlingHTTPS_Certifications.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,9 +73,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.newTest">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.Fibonacci" />
+  <component name="RunManager" selected="Application.FrequencyTest">
+    <configuration name="FrequencyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FrequencyTest" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
@@ -166,19 +140,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Fibonacci" />
       <item itemvalue="Application.ReversedString" />
       <item itemvalue="Application.Plaindromes" />
       <item itemvalue="Application.appearTwice" />
       <item itemvalue="Application.newTest" />
+      <item itemvalue="Application.FrequencyTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencyTest" />
         <item itemvalue="Application.newTest" />
         <item itemvalue="Application.appearTwice" />
         <item itemvalue="Application.Plaindromes" />
         <item itemvalue="Application.ReversedString" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -520,8 +494,8 @@
     <state x="493" y="43" key="CommitChangelistDialog2/-1920.23.1920.1057/0.23.1920.984@0.23.1920.984" timestamp="1585282618122" />
     <state x="-1427" y="43" key="CommitChangelistDialog2/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060721602" />
     <state x="493" y="23" key="CommitChangelistDialog2/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1588105467725" />
-    <state width="1868" height="291" key="GridCell.Tab.0.bottom" timestamp="1588325973665">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1868" height="311" key="GridCell.Tab.0.bottom" timestamp="1589148378039">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721349" />
     <state width="906" height="181" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020270" />
@@ -542,9 +516,10 @@
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1920.23.1920.980@-1920.23.1920.980" timestamp="1587854307447" />
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/0.23.1920.977/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587855761203" />
     <state width="1868" height="189" key="GridCell.Tab.0.bottom/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1587360586133" />
+    <state width="1868" height="311" key="GridCell.Tab.0.bottom/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589148378039" />
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973665" />
-    <state width="1868" height="291" key="GridCell.Tab.0.center" timestamp="1588325973664">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1868" height="311" key="GridCell.Tab.0.center" timestamp="1589148378035">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721347" />
     <state width="906" height="181" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020268" />
@@ -565,9 +540,10 @@
     <state width="1868" height="291" key="GridCell.Tab.0.center/0.23.1920.1057/-1920.23.1920.980@-1920.23.1920.980" timestamp="1587854307445" />
     <state width="1868" height="291" key="GridCell.Tab.0.center/0.23.1920.977/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587855761203" />
     <state width="1868" height="189" key="GridCell.Tab.0.center/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1587360586132" />
+    <state width="1868" height="311" key="GridCell.Tab.0.center/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589148378035" />
     <state width="1868" height="291" key="GridCell.Tab.0.center/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973664" />
-    <state width="1868" height="291" key="GridCell.Tab.0.left" timestamp="1588325973663">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1868" height="311" key="GridCell.Tab.0.left" timestamp="1589148378033">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721342" />
     <state width="906" height="181" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020267" />
@@ -588,9 +564,10 @@
     <state width="1868" height="291" key="GridCell.Tab.0.left/0.23.1920.1057/-1920.23.1920.980@-1920.23.1920.980" timestamp="1587854307444" />
     <state width="1868" height="291" key="GridCell.Tab.0.left/0.23.1920.977/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587855761202" />
     <state width="1868" height="189" key="GridCell.Tab.0.left/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1587360586131" />
+    <state width="1868" height="311" key="GridCell.Tab.0.left/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589148378033" />
     <state width="1868" height="291" key="GridCell.Tab.0.left/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973663" />
-    <state width="1868" height="291" key="GridCell.Tab.0.right" timestamp="1588325973664">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1868" height="311" key="GridCell.Tab.0.right" timestamp="1589148378036">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721349" />
     <state width="906" height="181" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020269" />
@@ -611,30 +588,35 @@
     <state width="1868" height="291" key="GridCell.Tab.0.right/0.23.1920.1057/-1920.23.1920.980@-1920.23.1920.980" timestamp="1587854307446" />
     <state width="1868" height="291" key="GridCell.Tab.0.right/0.23.1920.977/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587855761203" />
     <state width="1868" height="189" key="GridCell.Tab.0.right/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1587360586132" />
+    <state width="1868" height="311" key="GridCell.Tab.0.right/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589148378036" />
     <state width="1868" height="291" key="GridCell.Tab.0.right/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973664" />
-    <state width="1868" height="311" key="GridCell.Tab.1.bottom" timestamp="1588325973655">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1868" height="311" key="GridCell.Tab.1.bottom" timestamp="1589148378268">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="250" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1586313723378" />
     <state width="1868" height="226" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794897" />
+    <state width="1868" height="311" key="GridCell.Tab.1.bottom/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589148378268" />
     <state width="1868" height="311" key="GridCell.Tab.1.bottom/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973655" />
-    <state width="1868" height="311" key="GridCell.Tab.1.center" timestamp="1588325973655">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1868" height="311" key="GridCell.Tab.1.center" timestamp="1589148378264">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="250" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1586313723377" />
     <state width="1868" height="226" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794896" />
+    <state width="1868" height="311" key="GridCell.Tab.1.center/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589148378264" />
     <state width="1868" height="311" key="GridCell.Tab.1.center/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973655" />
-    <state width="1868" height="311" key="GridCell.Tab.1.left" timestamp="1588325973654">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1868" height="311" key="GridCell.Tab.1.left" timestamp="1589148378262">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="250" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1586313723376" />
     <state width="1868" height="226" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794896" />
+    <state width="1868" height="311" key="GridCell.Tab.1.left/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589148378262" />
     <state width="1868" height="311" key="GridCell.Tab.1.left/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973654" />
-    <state width="1868" height="311" key="GridCell.Tab.1.right" timestamp="1588325973655">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1868" height="311" key="GridCell.Tab.1.right" timestamp="1589148378266">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1868" height="250" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1920.977@-1920.23.1920.1057" timestamp="1586313723377" />
     <state width="1868" height="226" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584909794896" />
+    <state width="1868" height="311" key="GridCell.Tab.1.right/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589148378266" />
     <state width="1868" height="311" key="GridCell.Tab.1.right/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973655" />
     <state x="495" y="144" key="NewModule_or_Project.wizard" timestamp="1584913362131">
       <screen x="0" y="23" width="1920" height="1057" />
@@ -692,6 +674,17 @@
     <state x="541" y="66" width="838" height="935" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.978@0.23.1920.978" timestamp="1585597615360" />
     <state x="-1379" y="70" width="838" height="1011" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1920.982@-1920.23.1920.1057" timestamp="1585283193073" />
     <state x="541" y="66" width="838" height="935" key="search.everywhere.popup/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588235130472" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterviewQuestions/FrequencyTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaCodes$NestedLoopTest.ic" NAME="NestedLoopTest Coverage Results" MODIFIED="1584536418284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
