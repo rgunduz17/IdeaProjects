@@ -25,29 +25,5 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$USER_HOME$/Desktop/selenium/commons-io-2.6" />
-        </CLASSES>
-        <JAVADOC>
-          <root url="file://$USER_HOME$/Desktop/selenium/commons-io-2.6/docs" />
-        </JAVADOC>
-        <SOURCES>
-          <root url="file://$USER_HOME$/Desktop/selenium/commons-io-2.6" />
-        </SOURCES>
-        <jarDirectory url="file://$USER_HOME$/Desktop/selenium/commons-io-2.6" recursive="false" />
-        <jarDirectory url="file://$USER_HOME$/Desktop/selenium/commons-io-2.6" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/selenium/selenium-server-standalone-3.141.59.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
   </component>
 </module>
