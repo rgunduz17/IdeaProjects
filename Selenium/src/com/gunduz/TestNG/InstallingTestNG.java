@@ -11,6 +11,8 @@ public class InstallingTestNG {
         Click file and project structure ⇒ module
         Add TestNG jar to your project and click compile
         That is it!!!
+        NOTE: Latest version is giving "Test Framework quit unexpectedly" warning
+            (Tried other version and it worked)
 
      */
 }

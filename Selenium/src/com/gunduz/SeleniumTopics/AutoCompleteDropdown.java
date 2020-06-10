@@ -18,7 +18,7 @@ public class AutoCompleteDropdown {
        element.sendKeys("ta");
        element.sendKeys(Keys.DOWN);
        element.sendKeys(Keys.DOWN);
-       element.sendKeys(Keys.DOWN);
+     //  element.sendKeys(Keys.DOWN);
        element.sendKeys(Keys.ENTER);
 
         // Javascript DOM can extract hidden elements
@@ -26,16 +26,16 @@ public class AutoCompleteDropdown {
 
         // Javascript Executor:
 
-        JavascriptExecutor js= (JavascriptExecutor)driver;
-        String script = "return document.getElementById(\"myInput\").value;\n";
-        String text = (String) js.executeScript(script);
-        System.out.println(text); // Tanzania
-
-        while(!text.equalsIgnoreCase("Tanzania")){
-
-            element.sendKeys(Keys.ARROW_DOWN);
-            text = (String) js.executeScript(script);
-            System.out.println(text);
+//        JavascriptExecutor js= (JavascriptExecutor)driver;
+//        String script = "return document.getElementById(\"myInput\").value;\n";
+//        String text = (String) js.executeScript(script);
+//        System.out.println(text); // Tanzania
+//
+//        while(!text.equalsIgnoreCase("Tanzania")){
+//
+//            element.sendKeys(Keys.ARROW_DOWN);
+//            text = (String) js.executeScript(script);
+//            System.out.println(text);
         }
 
 

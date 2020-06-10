@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.gunduz.TestNG.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="TestNG(failed)" parallel="tests">
+    <classes>
+      <class name="com.gunduz.TestNG.TestNG_Practice4">
+        <methods>
+          <include name="afterClass"/>
+          <include name="LoginAPIHomeLoan"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.gunduz.TestNG.TestNG_Practice4 -->
+      <class name="com.gunduz.TestNG.TestNG_Practice1">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="secondDemo"/>
+        </methods>
+      </class> <!-- com.gunduz.TestNG.TestNG_Practice1 -->
+    </classes>
+  </test> <!-- TestNG(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

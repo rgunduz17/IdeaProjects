@@ -19,7 +19,7 @@ public class BasicCommands {
         driver.get("https://www.testandquiz.com/selenium/testing.html");
 
         // Launch Website 2. Way
-//         driver.navigate().to("https://www.testandquiz.com/selenium/testing.html");
+        // driver.navigate().to("https://www.testandquiz.com/selenium/testing.html");
 
         // Fetch the text "This is sample text." and print it on console
         // Use the class name of the div to locate it and then fetch text using getText() method

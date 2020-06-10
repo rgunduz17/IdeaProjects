@@ -34,15 +34,15 @@ static String pageMessage;
         WebDriver driver =new ChromeDriver();
         codeBlock(driver);
 
-        // Firefox Browser
-        System.setProperty(firefoxDriver, FirefoxDriverPath);
-        driver =new FirefoxDriver();
-        codeBlock(driver);
-
-        // Microsoft Edge Browser
-        System.setProperty(edgeDriver, EdgeDriverPath);
-        driver =new EdgeDriver();
-        codeBlock(driver);
+//        // Firefox Browser
+//        System.setProperty(firefoxDriver, FirefoxDriverPath);
+//        driver =new FirefoxDriver();
+//        codeBlock(driver);
+//
+//        // Microsoft Edge Browser
+//        System.setProperty(edgeDriver, EdgeDriverPath);
+//        driver =new EdgeDriver();
+//        codeBlock(driver);
 
         // Safari Browser
         // Basic HTTP Authentication is Unsupported.

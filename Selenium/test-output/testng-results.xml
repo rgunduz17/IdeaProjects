@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="13" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke Test" duration-ms="49" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+    <groups>
+      <group name="SmokeTesting">
+        <method signature="TestNG_Practice3.WebLoginCarLoan()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="WebLoginCarLoan" class="com.gunduz.TestNG.TestNG_Practice3"/>
+        <method signature="TestNG_Practice4.WebLoginHomeLoan()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice4@5a01ccaa]" name="WebLoginHomeLoan" class="com.gunduz.TestNG.TestNG_Practice4"/>
+        <method signature="TestNG_Practice1.Demo()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice1@3c5a99da]" name="Demo" class="com.gunduz.TestNG.TestNG_Practice1"/>
+        <method signature="TestNG_Practice2.thirdDemo()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice2@ea4a92b]" name="thirdDemo" class="com.gunduz.TestNG.TestNG_Practice2"/>
+      </group> <!-- SmokeTesting -->
+    </groups>
+    <test name="TestNG" duration-ms="49" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+      <class name="com.gunduz.TestNG.TestNG_Practice1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice1@3c5a99da]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Demo()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice1@3c5a99da]" name="Demo" duration-ms="1" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method status="FAIL" signature="secondDemo(java.lang.String, java.lang.String)[pri:0, instance:com.gunduz.TestNG.TestNG_Practice1@3c5a99da]" name="secondDemo" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'URL' is required by @Test on method secondDemo but has not been marked @Optional or defined
+in /Users/ridvangunduz/IdeaProjects/Selenium/testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'URL' is required by @Test on method secondDemo but has not been marked @Optional or defined
+in /Users/ridvangunduz/IdeaProjects/Selenium/testng.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:290)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:49)
+at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:37)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:924)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondDemo -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice1@3c5a99da]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.gunduz.TestNG.TestNG_Practice1 -->
+      <class name="com.gunduz.TestNG.TestNG_Practice3">
+        <test-method status="PASS" signature="WebLoginCarLoan()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="WebLoginCarLoan" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginCarLoan -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="beforeMethods" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="afterMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="afterMethods" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method status="PASS" signature="LoginCarLoan(java.lang.String, java.lang.String)[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="LoginCarLoan" duration-ms="1" started-at="2020-05-28T03:31:30Z" data-provider="getData" finished-at="2020-05-28T03:31:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FirstUserName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FirstPassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCarLoan -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="beforeMethods" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="beforeMethods" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="afterMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="afterMethods" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="beforeMethods" is-config="true" duration-ms="1" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="LoginCarLoan(java.lang.String, java.lang.String)[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="LoginCarLoan" duration-ms="0" started-at="2020-05-28T03:31:30Z" data-provider="getData" finished-at="2020-05-28T03:31:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SecondUserName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SecondPassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCarLoan -->
+        <test-method status="PASS" signature="afterMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="afterMethods" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method status="PASS" signature="afterMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="afterMethods" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method status="PASS" signature="LoginCarLoan(java.lang.String, java.lang.String)[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="LoginCarLoan" duration-ms="0" started-at="2020-05-28T03:31:30Z" data-provider="getData" finished-at="2020-05-28T03:31:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ThirdUserName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ThirdPassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginCarLoan -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="beforeMethods" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="afterMethods()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="afterMethods" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method status="PASS" signature="LoginAPICarLoan()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice3@47f37ef1]" name="LoginAPICarLoan" duration-ms="0" started-at="2020-05-28T03:31:30Z" depends-on-methods="com.gunduz.TestNG.TestNG_Practice3.WebLoginCarLoan" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPICarLoan -->
+      </class> <!-- com.gunduz.TestNG.TestNG_Practice3 -->
+      <class name="com.gunduz.TestNG.TestNG_Practice2">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice2@ea4a92b]" name="beforeSuite" is-config="true" duration-ms="83" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="thirdDemo()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice2@ea4a92b]" name="thirdDemo" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdDemo -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice2@ea4a92b]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.gunduz.TestNG.TestNG_Practice2 -->
+      <class name="com.gunduz.TestNG.TestNG_Practice4">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice4@5a01ccaa]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="WebLoginHomeLoan()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice4@5a01ccaa]" name="WebLoginHomeLoan" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginHomeLoan -->
+        <test-method status="PASS" signature="MobileLoginHomeLoan()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice4@5a01ccaa]" name="MobileLoginHomeLoan" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHomeLoan -->
+        <test-method status="PASS" signature="MobileSignInHomeLoan()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice4@5a01ccaa]" name="MobileSignInHomeLoan" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignInHomeLoan -->
+        <test-method status="PASS" signature="MobileSignOutHomeLoan()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice4@5a01ccaa]" name="MobileSignOutHomeLoan" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSignOutHomeLoan -->
+        <test-method status="FAIL" signature="LoginAPIHomeLoan(java.lang.String)[pri:0, instance:com.gunduz.TestNG.TestNG_Practice4@5a01ccaa]" name="LoginAPIHomeLoan" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'URL' is required by @Test on method LoginAPIHomeLoan but has not been marked @Optional or defined
+in /Users/ridvangunduz/IdeaProjects/Selenium/testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'URL' is required by @Test on method LoginAPIHomeLoan but has not been marked @Optional or defined
+in /Users/ridvangunduz/IdeaProjects/Selenium/testng.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:290)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:49)
+at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:37)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:924)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPIHomeLoan -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.gunduz.TestNG.TestNG_Practice4@5a01ccaa]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-05-28T03:31:30Z" finished-at="2020-05-28T03:31:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.gunduz.TestNG.TestNG_Practice4 -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Smoke Test -->
+</testng-results>

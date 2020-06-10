@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="URL" value="www.google.com"/>
+    <parameter name="APIKey/username" value="123456789"/>
+    <test verbose="2" preserve-order="true" name="/Users/ridvangunduz/IdeaProjects/Selenium">
+        <classes>
+            <class name="com.gunduz.TestNG.TestNG_Practice1">
+                <methods>
+                    <include name="Demo"/>
+                    <exclude name="secondDemo"/>
+                </methods>
+            </class>
+            <class name="com.gunduz.TestNG.TestNG_Practice2">
+                <methods>
+                    <include name="thirdDemo"/>
+                </methods>
+            </class>
+            <class name="com.gunduz.TestNG.TestNG_Practice3">
+                <methods>
+                    <include name="WebLoginCarLoan"/>
+                    <include name="LoginCarLoan"/>
+                    <include name="LoginAPICarLoan"/>
+                </methods>
+            </class>
+            <class name="com.gunduz.TestNG.TestNG_Practice4">
+                <methods>
+                    <include name="WebLoginHomeLoan"/>
+                    <exclude name="Mobile.*"/>
+                    <include name="LoginAPIHomeLoan"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

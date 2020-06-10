@@ -10,7 +10,7 @@ public class Locators {
 
         // Every object may NOT have ID, className, name, Xpath and Css preferred
 
-        // Alpha numeric id may vary on every refresh of the browser
+        // Alpha numeric ID may vary on every refresh of the browser
 
         // ClassName should not have spaces- Compound classes cannot be accepted
 

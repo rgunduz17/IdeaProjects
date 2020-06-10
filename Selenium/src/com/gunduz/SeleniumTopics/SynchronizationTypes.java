@@ -34,7 +34,7 @@ public class SynchronizationTypes {
         or the maximum time exceeded before throwing an
         "ElementNotVisibleException" exception.
      */
-    //       WebDriverWait wait = new WebDriverWait(WebDriverRefrence,TimeOut);
+    //       WebDriverWait wait = new WebDriverWait(WebDriverReference,TimeOut);
     //  EX:  WebDriverWait wait = new WebDriverWait(driver, 20);
 
 

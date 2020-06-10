@@ -20,45 +20,138 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/MiddleChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/TwoWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/GasTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumGrid/MultipleBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumGrid/SeleniumGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumGrid/SeleniumGridSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/TableColumns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/Selenium_TheInternet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/out/production/Selenium_TheInternet/com/gunduz/ABTesting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/out/production/Selenium_TheInternet/com/gunduz/Add_RemoveElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/out/production/Selenium_TheInternet/com/gunduz/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/ABTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/Add_RemoveElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/BasicAuthentication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/BrokenImages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/ChallengingDOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/CheckBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/ContextMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/DisappearingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/DropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/DynamicContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium_TheInternet/src/com/gunduz/DynamicControls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ArrayListRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/BankAccount2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/Practice_Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/out/production/Practice_Selenium/ChromeBrowser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/out/production/Practice_Selenium/ChromeBrowserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/out/production/Practice_Selenium/SeleniumInstallation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/src/ChromeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/src/ChromeBrowserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/src/SeleniumInstallation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/All Test Suite/TestNG.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/All Test Suite/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/junitreports/TEST-com.gunduz.TestNG.TestNG_Practice1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/junitreports/TEST-com.gunduz.TestNG.TestNG_Practice2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/junitreports/TEST-com.gunduz.TestNG.TestNG_Practice3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/junitreports/TEST-com.gunduz.TestNG.TestNG_Practice4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/TestNG.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/testng2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/testng3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/testng4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/SeleniumPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Basics/BasicCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Basics/BrowserCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Basics/NavigationCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Basics/WebElementCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/JUnit/JUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByCssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByPartialLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByTagName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByXPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/AutoCompleteDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/AutoSuggestiveDropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingAjax_MouseInteractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingCheckboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingDynamicDropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingIFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingJavaAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingStaticDropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingTableGrids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/MultipleTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/TableColumns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/TakeAScreenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/TakeMultipleScreenShots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/Waits_SynchronizationTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/TestNG/InstallingTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Basics/BasicCommands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Basics/BrowserCommands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Basics/NavigationCommands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Basics/WebElementCommands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByClassName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByCssSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByID.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByLinkText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByPartialLinkText.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByTagName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByXPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/SeleniumProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/test/java/Tests/FirstTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/test/java/Tests/Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TESTNG/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TESTNG/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TESTNG/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TESTNG/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TESTNG/TESTNG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TESTNG/out/production/TESTNG/TestNG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TESTNG/src/TestNG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/InterviewQuestions/FrequencyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/InterviewQuestions/FrequencyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/InterviewQuestions/ReversedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/InterviewQuestions/ReversedString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCodes/test/newTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCodes/test/newTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterviewQuestions/ReversedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterviewQuestions/ReversedString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Selenium/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Selenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium/out/production/Selenium/META-INF/Selenium.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/Browsers/ChromeBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/Browsers/ChromeBrowser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/Browsers/ChromeBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/Browsers/ChromeBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumCommands/BasicCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumCommands/BasicCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/SynchronizationTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/SynchronizationTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/InstallingTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/InstallingTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,9 +196,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoWords">
-    <configuration name="GasTank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.GasTank" />
+  <component name="RunManager" selected="Application.ArrayListRemove">
+    <configuration name="ArrayListRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ArrayListRemove" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
@@ -117,21 +210,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.MiddleChar" />
-      <module name="JavaCodes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TV" />
+    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Overloading" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +223,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test12" />
+    <configuration name="Test$Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test$Test2" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
@@ -156,12 +236,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.TwoWords" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
       <module name="JavaCodes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.student" />
+      <module name="JavaCodes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,19 +263,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test12" />
-      <item itemvalue="Application.GasTank" />
-      <item itemvalue="Application.TV" />
-      <item itemvalue="Application.MiddleChar" />
-      <item itemvalue="Application.TwoWords" />
+      <item itemvalue="Application.ArrayListRemove" />
+      <item itemvalue="Application.Overloading" />
+      <item itemvalue="Application.Test$Test2" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.student" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoWords" />
-        <item itemvalue="Application.MiddleChar" />
-        <item itemvalue="Application.TV" />
-        <item itemvalue="Application.GasTank" />
-        <item itemvalue="Application.Test12" />
+        <item itemvalue="Application.ArrayListRemove" />
+        <item itemvalue="Application.Overloading" />
+        <item itemvalue="Application.student" />
+        <item itemvalue="Application.Test$Test2" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -505,10 +598,11 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="1143" y="23" width="777" height="976" key="#Test5/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1584529926700" />
-    <state x="554" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1585874131256">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state x="2474" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1590033696702">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state x="554" y="135" key="#com.intellij.ide.util.MemberChooser/-1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585874131256" />
+    <state x="2474" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1590033696702" />
     <state x="-1238" y="415" width="565" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586565146276">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
@@ -532,8 +626,8 @@
     <state x="-1427" y="43" key="CommitChangelistDialog2/-1920.23.1920.978/0.23.1920.1057@-1920.23.1920.978" timestamp="1586060721602" />
     <state x="493" y="23" key="CommitChangelistDialog2/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1588105467725" />
     <state x="2413" y="23" key="CommitChangelistDialog2/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589148844960" />
-    <state width="1868" height="229" key="GridCell.Tab.0.bottom" timestamp="1589778312697">
-      <screen x="1920" y="23" width="1920" height="983" />
+    <state width="1868" height="227" key="GridCell.Tab.0.bottom" timestamp="1590225728170">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721349" />
     <state width="906" height="181" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020270" />
@@ -556,11 +650,12 @@
     <state width="1868" height="229" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1920.983@1920.23.1920.983" timestamp="1589778312697" />
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/0.23.1920.977/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587855761203" />
     <state width="1868" height="189" key="GridCell.Tab.0.bottom/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1587360586133" />
-    <state width="1868" height="311" key="GridCell.Tab.0.bottom/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589163385688" />
+    <state width="1868" height="227" key="GridCell.Tab.0.bottom/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1590039739418" />
     <state width="1868" height="291" key="GridCell.Tab.0.bottom/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973665" />
     <state width="1868" height="141" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1589694952888" />
-    <state width="1868" height="229" key="GridCell.Tab.0.center" timestamp="1589778312696">
-      <screen x="1920" y="23" width="1920" height="983" />
+    <state width="1868" height="227" key="GridCell.Tab.0.bottom/1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1590225728170" />
+    <state width="1868" height="227" key="GridCell.Tab.0.center" timestamp="1590225728169">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721347" />
     <state width="906" height="181" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020268" />
@@ -583,11 +678,12 @@
     <state width="1868" height="229" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1920.983@1920.23.1920.983" timestamp="1589778312696" />
     <state width="1868" height="291" key="GridCell.Tab.0.center/0.23.1920.977/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587855761203" />
     <state width="1868" height="189" key="GridCell.Tab.0.center/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1587360586132" />
-    <state width="1868" height="311" key="GridCell.Tab.0.center/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589163385687" />
+    <state width="1868" height="227" key="GridCell.Tab.0.center/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1590039739417" />
     <state width="1868" height="291" key="GridCell.Tab.0.center/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973664" />
     <state width="1868" height="141" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1589694952886" />
-    <state width="1868" height="229" key="GridCell.Tab.0.left" timestamp="1589778312695">
-      <screen x="1920" y="23" width="1920" height="983" />
+    <state width="1868" height="227" key="GridCell.Tab.0.center/1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1590225728169" />
+    <state width="1868" height="227" key="GridCell.Tab.0.left" timestamp="1590225728169">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721342" />
     <state width="906" height="181" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020267" />
@@ -610,11 +706,12 @@
     <state width="1868" height="229" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1920.983@1920.23.1920.983" timestamp="1589778312695" />
     <state width="1868" height="291" key="GridCell.Tab.0.left/0.23.1920.977/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587855761202" />
     <state width="1868" height="189" key="GridCell.Tab.0.left/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1587360586131" />
-    <state width="1868" height="311" key="GridCell.Tab.0.left/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589163385687" />
+    <state width="1868" height="227" key="GridCell.Tab.0.left/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1590039739415" />
     <state width="1868" height="291" key="GridCell.Tab.0.left/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973663" />
     <state width="1868" height="141" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1589694952885" />
-    <state width="1868" height="229" key="GridCell.Tab.0.right" timestamp="1589778312696">
-      <screen x="1920" y="23" width="1920" height="983" />
+    <state width="1868" height="227" key="GridCell.Tab.0.left/1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1590225728169" />
+    <state width="1868" height="227" key="GridCell.Tab.0.right" timestamp="1590225728170">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="906" height="181" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1586408721349" />
     <state width="906" height="181" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.0.1920.1000@0.0.1920.1000" timestamp="1586403020269" />
@@ -637,9 +734,10 @@
     <state width="1868" height="229" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1920.983@1920.23.1920.983" timestamp="1589778312696" />
     <state width="1868" height="291" key="GridCell.Tab.0.right/0.23.1920.977/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587855761203" />
     <state width="1868" height="189" key="GridCell.Tab.0.right/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1587360586132" />
-    <state width="1868" height="311" key="GridCell.Tab.0.right/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1589163385688" />
+    <state width="1868" height="227" key="GridCell.Tab.0.right/0.23.1920.977/1920.23.1920.1057@1920.23.1920.1057" timestamp="1590039739418" />
     <state width="1868" height="291" key="GridCell.Tab.0.right/0.23.1920.978/-1920.23.1920.1057@0.23.1920.978" timestamp="1588325973664" />
     <state width="1868" height="141" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1589694952887" />
+    <state width="1868" height="227" key="GridCell.Tab.0.right/1920.23.1920.977/0.23.1920.1057@0.23.1920.1057" timestamp="1590225728170" />
     <state width="1868" height="311" key="GridCell.Tab.1.bottom" timestamp="1589163385691">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>

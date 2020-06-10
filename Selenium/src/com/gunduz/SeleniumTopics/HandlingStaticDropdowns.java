@@ -21,13 +21,13 @@ public class HandlingStaticDropdowns {
 
         // selectByValue:  Search the given value and select it
         s.selectByValue("AED");
-
+        Thread.sleep(2000L);
         // selectByIndex: Use the given index to select item
         s.selectByIndex(3);
-
+        Thread.sleep(2000L);
         // selectByVisibleText(): Search the given text to find and select it
         s.selectByVisibleText("INR");
-
+        Thread.sleep(2000L);
         driver.findElement(By.id("divpaxinfo")).click();
         Thread.sleep(2000L);
 

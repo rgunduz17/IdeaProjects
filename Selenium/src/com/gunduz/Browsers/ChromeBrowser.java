@@ -33,13 +33,13 @@ public class ChromeBrowser {
 
     //    System.out.println(driver.getPageSource());  // give page source ==> html/css/js codes
 
-        driver.navigate().to("http://yahoo.com"); // navigate to link
+    //    driver.navigate().to("http://yahoo.com"); // navigate to link
 
     //    driver.navigate().back();   // goes to another link and goes back
 
     //    driver.navigate().forward();  // goes to next link
 
-            driver.close();  // close the browser after test
+     //       driver.close();  // close the browser after test
 
     //        driver.quit();   // it closes all the browsers opened by Selenium script
 

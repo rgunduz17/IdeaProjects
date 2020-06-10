@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Test" parallel="tests" thread-count="5">
+    <listeners>
+        <listener class-name="com.gunduz.TestNG.Listeners"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="TestNG">
+        <classes>
+            <class name="com.gunduz.TestNG.TestNG_Practice1">
+                <methods>
+                    <include name="Demo"/>
+                    <include name="secondDemo"/>
+                </methods>
+            </class>
+            <class name="com.gunduz.TestNG.TestNG_Practice2">
+                <methods>
+                    <include name="thirdDemo"/>
+                </methods>
+            </class>
+            <class name="com.gunduz.TestNG.TestNG_Practice3">
+                <methods>
+                    <include name="WebLoginCarLoan"/>
+                    <include name="LoginCarLoan"/>
+                    <include name="LoginAPICarLoan"/>
+                </methods>
+            </class>
+            <class name="com.gunduz.TestNG.TestNG_Practice4">
+                <methods>
+                    <include name="WebLoginHomeLoan"/>
+                    <include name="MobileLoginHomeLoan"/>
+                    <include name="MobileSignInHomeLoan"/>
+                    <include name="MobileSignOutHomeLoan"/>
+                    <include name="LoginAPIHomeLoan"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,242 @@
+<html>
+<head>
+<title>TestNG:  TestNG</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>TestNG</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>11/2/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed May 27 22:31:30 CDT 2020</td>
+</tr>
+<tr><td>Total time:</td><td>0 seconds (49 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice4.LoginAPIHomeLoan()'><b>LoginAPIHomeLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice4</td>
+<td><div><pre>org.testng.TestNGException: 
+Parameter &apos;URL&apos; is required by @Test on method LoginAPIHomeLoan but has not been marked @Optional or defined
+in /Users/ridvangunduz/IdeaProjects/Selenium/testng.xml
+	at org.testng.internal.Parameters.createParams(Parameters.java:290)
+	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:49)
+	at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:37)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:924)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1238105557", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1238105557'><pre>org.testng.TestNGException: 
+Parameter &apos;URL&apos; is required by @Test on method LoginAPIHomeLoan but has not been marked @Optional or defined
+in /Users/ridvangunduz/IdeaProjects/Selenium/testng.xml
+	at org.testng.internal.Parameters.createParams(Parameters.java:290)
+	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:49)
+	at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:37)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:924)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+</pre></div></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice4@5a01ccaa</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice1.secondDemo()'><b>secondDemo</b><br>Test class: com.gunduz.TestNG.TestNG_Practice1</td>
+<td><div><pre>org.testng.TestNGException: 
+Parameter &apos;URL&apos; is required by @Test on method secondDemo but has not been marked @Optional or defined
+in /Users/ridvangunduz/IdeaProjects/Selenium/testng.xml
+	at org.testng.internal.Parameters.createParams(Parameters.java:290)
+	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:49)
+	at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:37)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:924)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+</pre></div><a href='#' onClick='toggleBox("stack-trace658943697", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace658943697'><pre>org.testng.TestNGException: 
+Parameter &apos;URL&apos; is required by @Test on method secondDemo but has not been marked @Optional or defined
+in /Users/ridvangunduz/IdeaProjects/Selenium/testng.xml
+	at org.testng.internal.Parameters.createParams(Parameters.java:290)
+	at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:620)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
+	at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:49)
+	at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:37)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:924)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:648)
+	at org.testng.TestRunner.run(TestRunner.java:505)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:40)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:489)
+	at org.testng.internal.thread.ThreadUtil$1.call(ThreadUtil.java:52)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+</pre></div></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice1@3c5a99da</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice1.Demo()'><b>Demo</b><br>Test class: com.gunduz.TestNG.TestNG_Practice1</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice1@3c5a99da</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice3.LoginAPICarLoan()'><b>LoginAPICarLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice3</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice3@47f37ef1</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice3.LoginCarLoan()'><b>LoginCarLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice3<br>Parameters: FirstUserName, FirstPassword</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice3@47f37ef1</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice3.LoginCarLoan()'><b>LoginCarLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice3<br>Parameters: SecondUserName, SecondPassword</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice3@47f37ef1</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice3.LoginCarLoan()'><b>LoginCarLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice3<br>Parameters: ThirdUserName, ThirdPassword</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice3@47f37ef1</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice4.MobileLoginHomeLoan()'><b>MobileLoginHomeLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice4</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice4@5a01ccaa</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice4.MobileSignInHomeLoan()'><b>MobileSignInHomeLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice4</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice4@5a01ccaa</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice4.MobileSignOutHomeLoan()'><b>MobileSignOutHomeLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice4</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice4@5a01ccaa</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice3.WebLoginCarLoan()'><b>WebLoginCarLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice3</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice3@47f37ef1</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice4.WebLoginHomeLoan()'><b>WebLoginHomeLoan</b><br>Test class: com.gunduz.TestNG.TestNG_Practice4</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice4@5a01ccaa</td></tr>
+<tr>
+<td title='com.gunduz.TestNG.TestNG_Practice2.thirdDemo()'><b>thirdDemo</b><br>Test class: com.gunduz.TestNG.TestNG_Practice2</td>
+<td></td>
+<td>0</td>
+<td>com.gunduz.TestNG.TestNG_Practice2@ea4a92b</td></tr>
+</table><p>
+</body>
+</html>
