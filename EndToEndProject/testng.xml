@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="Framework.Listener"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="/Users/ridvangunduz/IdeaProjects/EndToEndProject">
+        <classes>
+            <class name="Framework.Test2">
+                <methods>
+                    <include name="getRandomPersons"/>
+                </methods>
+            </class>
+            <class name="Framework.TestToFail">
+                <methods>
+                    <include name="failThisTest"/>
+                </methods>
+            </class>
+            <class name="HomePage.HomePage">
+                <methods>
+                    <include name="homePageLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

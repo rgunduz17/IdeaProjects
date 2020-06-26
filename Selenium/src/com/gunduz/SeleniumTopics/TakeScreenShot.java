@@ -19,6 +19,7 @@ public class TakeScreenShot {
         driver.manage().window().maximize();
 
 
+        String pathName ="//Users//ridvangunduz//Desktop//selenium//Screenshots//screenshot.png";
 
         File source = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
         FileUtils.copyFile(source, new File("//Users//ridvangunduz//Desktop//selenium//Screenshots//screenshot.png"));

@@ -23,10 +23,10 @@ public class MultipleWindows {
         System.out.println(driver.getTitle());
         Thread.sleep(3000);
 
-        //  Set to ids to handle windows
+        //  Set to IDs to handle windows
         Set <String> ids = driver.getWindowHandles();
 
-        // Created iterator to get each windows ids
+        // Created iterator to get each windows IDs
         Iterator<String> iterator= ids.iterator();
         String parentId =iterator.next();
         String childId =iterator.next();

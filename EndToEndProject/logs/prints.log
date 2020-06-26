@@ -1,0 +1,3 @@
+04:01:21.095 [main] INFO  Framework.Test2 - Faker Class created
+04:01:21.429 [main] INFO  Framework.Test2 - Saving faker info into ArrayList
+04:01:21.450 [main] INFO  Framework.Test2 - Printing saved fake info

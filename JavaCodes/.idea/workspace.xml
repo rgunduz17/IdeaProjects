@@ -20,138 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c4c98f5-1317-4639-b1d0-a0e8615a6094" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/ArrayListRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/BankAccount2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/Practice_Selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/out/production/Practice_Selenium/ChromeBrowser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/out/production/Practice_Selenium/ChromeBrowserTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/out/production/Practice_Selenium/SeleniumInstallation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/src/ChromeBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/src/ChromeBrowserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Practice_Selenium/src/SeleniumInstallation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/Listeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/All Test Suite/TestNG.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/All Test Suite/TestNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/junitreports/TEST-com.gunduz.TestNG.TestNG_Practice1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/junitreports/TEST-com.gunduz.TestNG.TestNG_Practice2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/junitreports/TEST-com.gunduz.TestNG.TestNG_Practice3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/junitreports/TEST-com.gunduz.TestNG.TestNG_Practice4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/TestNG.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/All Test Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/test-output/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/testng2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/testng3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Selenium/testng4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/SeleniumPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Basics/BasicCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Basics/BrowserCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Basics/NavigationCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Basics/WebElementCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/JUnit/JUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByClassName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByCssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByPartialLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByTagName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/Locators/ByXPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/AutoCompleteDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/AutoSuggestiveDropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingAjax_MouseInteractions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingCheckboxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingDynamicDropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingIFrames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingJavaAlerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingStaticDropdowns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/HandlingTableGrids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/MultipleTabs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/TableColumns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/TakeAScreenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/TakeMultipleScreenShots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/SeleniumTopics/Waits_SynchronizationTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/src/test/java/TestNG/InstallingTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Basics/BasicCommands.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Basics/BrowserCommands.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Basics/NavigationCommands.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Basics/WebElementCommands.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByClassName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByCssSelector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByID.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByLinkText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByPartialLinkText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByTagName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumPractice/target/test-classes/Locators/ByXPath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/SeleniumProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/test/java/Tests/FirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SeleniumProject/src/test/java/Tests/Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TESTNG/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TESTNG/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TESTNG/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TESTNG/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TESTNG/TESTNG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TESTNG/out/production/TESTNG/TestNG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TESTNG/src/TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeTest/SeleniumPractice/src/test/java/SeleniumTopics/CheckBoxes/HandlingRadioButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeTest/SeleniumPractice/src/test/java/SeleniumTopics/MultipleWindows/MultipleWindows_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeTest/SeleniumPractice/src/test/java/SeleniumTopics/MultipleWindows/MultipleWindows_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeTest/SeleniumPractice/src/test/java/SeleniumTopics/MultipleWindows/OpenALinkInANewWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeTest/SeleniumPractice/src/test/java/SeleniumTopics/MultipleWindows/SwitchTheWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeTest/SeleniumPractice/src/test/java/TestNG/Practice_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumPracticeTest/SeleniumPractice/target/test-classes/SeleniumTopics/MultipleWindows/MultipleWindows_3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/Selenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/Browsers/ChromeBrowser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/Browsers/ChromeBrowser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/Browsers/ChromeBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/Browsers/ChromeBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumCommands/BasicCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumCommands/BasicCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/Locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/Locators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/SynchronizationTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/SynchronizationTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/InstallingTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/InstallingTestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestNG/TestNG_Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/SeleniumTopics/HandlingAjax_MouseInteractions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/SeleniumTopics/HandlingAjax_MouseInteractions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/SeleniumTopics/TakeMultipleScreenShots.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/SeleniumTopics/TakeMultipleScreenShots.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/SeleniumTopics/TakeScreenShot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/SeleniumTopics/TakeScreenShot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/TestCases/MultiWindowTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/out/production/Selenium/com/gunduz/TestCases/MultiWindowTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/AutoCompleteDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/AutoCompleteDropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/BasicAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/BasicAuthentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/HandlingAjax_MouseInteractions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/HandlingAjax_MouseInteractions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/MultipleWindows.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/MultipleWindows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/TakeMultipleScreenShots.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/TakeMultipleScreenShots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/TakeScreenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/SeleniumTopics/TakeScreenShot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestCases/MultiWindowTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium/src/com/gunduz/TestCases/MultiWindowTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

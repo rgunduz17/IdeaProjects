@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
-// Github Test
+
 public class BasicAuthentication {
     static String pageMessage;
     public static void main(String[] args) throws InterruptedException {

@@ -21,7 +21,7 @@ public class HandlingAjax_MouseInteractions {
 
         //  Navigate to mouse over Sign in Section and tabs open
         Actions a = new Actions(driver);
-        a.moveToElement(move).contextClick().build().perform();
+      //  a.moveToElement(move).contextClick().build().perform();
 
 //        a.moveToElement(driver.findElement(By.xpath("//*[@id=\"nav-al-your-account\"]/a[8]/span"))).build().perform();
 //        driver.findElement(By.xpath("//*[@id=\"nav-al-your-account\"]/a[8]/span")).click();

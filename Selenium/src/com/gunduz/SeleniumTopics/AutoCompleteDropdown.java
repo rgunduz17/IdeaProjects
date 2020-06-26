@@ -25,7 +25,7 @@ public class AutoCompleteDropdown {
         // Selenium cannot identify hidden elements (Ajax implementation)
 
         // Javascript Executor:
-
+// //*[@id="root"]/div/div[2]/div/div/div[2]/div[1]/div[2]/div[1]/div/div/div/input
 //        JavascriptExecutor js= (JavascriptExecutor)driver;
 //        String script = "return document.getElementById(\"myInput\").value;\n";
 //        String text = (String) js.executeScript(script);
